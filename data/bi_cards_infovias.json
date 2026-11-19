@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-19T17:14:25-03:00",
+  "gerado_em": "2026-11-19T17:26:17-03:00",
   "extraido_em": "19/11/2026",
   "00": {
     "km": "769,41",
@@ -25,9 +25,9 @@
     "patrimonializacao": 1.0,
     "formacao_con": 1.0,
     "pares": 24,
-    "pontos": null,
-    "subprograma": null,
-    "atualizacao": null
+    "pontos": 72,
+    "subprograma": "PAIS",
+    "atualizacao": "Outubro de 2026"
   },
   "01": {
     "km": "1.053,62",
@@ -52,9 +52,9 @@
     "patrimonializacao": 1.0,
     "formacao_con": 1.0,
     "pares": 24,
-    "pontos": null,
-    "subprograma": null,
-    "atualizacao": null
+    "pontos": 177,
+    "subprograma": "PAIS",
+    "atualizacao": "Outubro de 2026"
   },
   "02": {
     "km": "2.050,81",
@@ -75,15 +75,15 @@
     "patrimonializacao": 0.625,
     "formacao_con": 0.6875,
     "pares": 24,
-    "pontos": null,
-    "subprograma": null,
-    "atualizacao": null
+    "pontos": 257,
+    "subprograma": "PAIS, PAC",
+    "atualizacao": "Outubro de 2026"
   },
   "03": {
     "km": "924,60",
     "ufs": 2,
     "localidades": 6,
-    "consorciados": 13,
+    "consorciados": 14,
     "consorciados_lista": [
       "Você Telecom",
       "Claro",
@@ -104,9 +104,9 @@
     "patrimonializacao": 1.0,
     "pares": 24,
     "formacao_con": 1.0,
-    "pontos": null,
-    "subprograma": null,
-    "atualizacao": null
+    "pontos": 70,
+    "subprograma": "PAIS",
+    "atualizacao": "Outubro de 2026"
   },
   "04": {
     "km": "1.181,75",
@@ -123,9 +123,9 @@
     "populacao": 3067059,
     "formacao_con": 1.0,
     "pares": 24,
-    "pontos": null,
-    "subprograma": null,
-    "atualizacao": null
+    "pontos": 65,
+    "subprograma": "PAIS, PAC",
+    "atualizacao": "Outubro de 2026"
   },
   "05": {
     "km": "1.326,00",
@@ -138,9 +138,9 @@
     "patrimonializacao": 0.0,
     "formacao_con": 0.125,
     "pares": 24,
-    "pontos": null,
-    "subprograma": null,
-    "atualizacao": null
+    "pontos": 107,
+    "subprograma": "PAIS",
+    "atualizacao": "Outubro de 2026"
   },
   "06": {
     "km": "2.485,00",
@@ -153,9 +153,9 @@
     "populacao": 538903,
     "formacao_con": 0.0,
     "pares": 24,
-    "pontos": null,
-    "subprograma": null,
-    "atualizacao": null
+    "pontos": 104,
+    "subprograma": "PAIS",
+    "atualizacao": "Outubro de 2026"
   },
   "07": {
     "km": "795,00",
@@ -172,9 +172,9 @@
     "patrimonializacao": 1.0,
     "formacao_con": 1.0,
     "pares": 12,
-    "pontos": null,
-    "subprograma": null,
-    "atualizacao": null
+    "pontos": 25,
+    "subprograma": "PAC",
+    "atualizacao": "Outubro de 2026"
   },
   "08": {
     "km": "2.766,00",
@@ -187,9 +187,9 @@
     "patrimonializacao": 0.0,
     "formacao_con": 0.0,
     "pares": 24,
-    "pontos": null,
-    "subprograma": null,
-    "atualizacao": null
+    "pontos": 91,
+    "subprograma": "PAIS",
+    "atualizacao": "Outubro de 2026"
   },
   "programa": {
     "km_previsto": "13.352,18",
@@ -8061,5 +8061,13 @@
       "formacao_con": "363d8de63ce1",
       "pares": "d1375d6de692"
     }
+  },
+  "programa_cards": {
+    "atualizacao": "Outubro de 2026",
+    "localidades": 70,
+    "consorciados": 19,
+    "pontos": 968,
+    "km": "13.352,18",
+    "ufs": 6
   }
 }
