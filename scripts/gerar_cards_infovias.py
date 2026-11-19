@@ -14,6 +14,7 @@ Regras:
   a execucao falha e nada e publicado.
 """
 import json
+import unicodedata
 import re
 from decimal import Decimal, ROUND_HALF_UP
 from datetime import datetime, timezone, timedelta
@@ -118,6 +119,11 @@ def _lista(texto):
     return [p.strip() for p in texto.split(',') if p.strip()]
 
 
+def _chave(nome):
+    base = unicodedata.normalize('NFD', nome).encode('ascii', 'ignore').decode()
+    return ' '.join(base.lower().split())
+
+
 def _km_br(v):
     # Arredonda como o Power BI exibe (924.59499999... -> 924,60).
     d = Decimal(repr(round(v, 9))).quantize(Decimal('0.01'), rounding=ROUND_HALF_UP)
@@ -133,6 +139,8 @@ def _infovia(texto):
 def gerar(configs, output):
     respostas = {item['id']: item['resposta_original'] for item in output}
     cards = {iv: {} for iv in INFOVIAS}
+    km_bruto = {}
+    locais = {}
     origem = {iv: {} for iv in INFOVIAS}
 
     def gravar(iv, campo, valor, consulta):
@@ -152,12 +160,14 @@ def gerar(configs, output):
                     continue
                 km = _num(linha.get(COL_KM))
                 if km is not None:
+                    km_bruto[ivt] = km
                     gravar(ivt, 'km', _km_br(km), config['id'])
                 ufs = _lista(linha.get(COL_UFS))
                 if ufs:
                     gravar(ivt, 'ufs', len(ufs), config['id'])
                 mun = _lista(linha.get(COL_MUN))
                 if mun:
+                    locais[ivt] = {_chave(m) for m in mun}
                     gravar(ivt, 'localidades', len(mun), config['id'])
                 cons = linha.get(COL_CONS)
                 if isinstance(cons, str) and cons.strip():
@@ -201,13 +211,87 @@ def gerar(configs, output):
     if erros:
         raise RuntimeError('bi_cards_infovias.json NAO gerado:\n' + '\n'.join(erros))
 
+    # Consolidado do programa (pagina norte). Localidades compartilhadas entre
+    # infovias contam uma vez. "Em operacao" = infovias com Implantacao = 100%.
+    concluidas = [iv for iv in INFOVIAS if cards[iv].get('implantacao') == 1]
+    programa = {
+        'km_previsto': _km_br(sum(km_bruto[iv] for iv in INFOVIAS)),
+        'km_implantado': _km_br(sum(km_bruto[iv] for iv in concluidas)),
+        'localidades_previstas': len(set().union(*(locais[iv] for iv in INFOVIAS))),
+        'localidades_operacao': len(set().union(*(locais[iv] for iv in concluidas))) if concluidas else 0,
+        'infovias_concluidas': concluidas,
+    }
+
     agora = datetime.now(timezone(timedelta(hours=-3)))
     return {
         'gerado_em': agora.isoformat(timespec='seconds'),
         'extraido_em': agora.strftime('%d/%m/%Y'),
         **{iv: cards[iv] for iv in INFOVIAS},
+        'programa': programa,
+        'mapas': gerar_mapas(BASE.parent / 'data' / 'pontos_acesso.json'),
         '_origem': origem,
     }
+
+
+# ---------------------------------------------------------------------------
+# Mapas e listas de instituicoes (Distribuicao Territorial)
+# Fonte: data/pontos_acesso.json (tabela detalhada do BI, gerada por extrair_pontos.py).
+# O BI registra algumas instituicoes por distrito ou com nome abreviado; aqui cada
+# localidade e associada ao municipio usado nos mapas. Localidade desconhecida
+# nao e descartada: segue com o proprio nome e a pagina recusa a atualizacao
+# daquela infovia (mantem os dados atuais) se nao encontrar o municipio.
+# Infovias em operacao (status das paginas; o BI nao informa o status).
+INFOVIAS_OPERACAO = ['00', '01', '02', '03', '04']
+LOCALIDADE_MUNICIPIO = {
+    'auxiliadora': ('Humaitá', 'AM'),            # distrito de Humaitá
+    'calama': ('Porto Velho', 'RO'),             # distrito de Porto Velho
+    'belem dos solimoes': ('Tabatinga', 'AM'),   # distrito de Tabatinga
+    'vila de moura': ('Barcelos', 'AM'),         # distrito de Barcelos
+    'sta. maria do boiacu': ('Rorainópolis', 'RR'),  # distrito de Rorainópolis
+    'santa maria do boiacu': ('Rorainópolis', 'RR'),
+    'benjamim constant': ('Benjamin Constant', 'AM'),
+    'sao paulo de o.': ('São Paulo de Olivença', 'AM'),
+    'st. antonio do ica': ('Santo Antônio do Içá', 'AM'),
+    'sao gabriel da cach.': ('São Gabriel da Cachoeira', 'AM'),
+    'sta isabel do rio negro': ('Santa Isabel do Rio Negro', 'AM'),
+    'sta. isabel do rio negro': ('Santa Isabel do Rio Negro', 'AM'),
+}
+
+
+def _chave_js(nome, uf):
+    # Mesma normalizacao do norm() dos HTMLs: sem acento, minusculas, sem espacos nas pontas.
+    base = unicodedata.normalize('NFD', nome or '')
+    base = ''.join(ch for ch in base if not unicodedata.combining(ch))
+    return base.lower().strip() + '|' + (uf or '').strip().upper()
+
+
+def gerar_mapas(caminho_pontos):
+    dados = json.loads(Path(caminho_pontos).read_text(encoding='utf-8'))
+    if not dados.get('completo'):
+        raise RuntimeError('pontos_acesso.json incompleto; mapas nao gerados.')
+    infovias = {}
+    for linha in dados['instituicoes']:
+        iv = _infovia(linha.get('infovia'))
+        if iv is None:
+            continue
+        local = (linha.get('localidade') or '').strip()
+        uf = (linha.get('uf') or '').strip().upper()
+        nome, uf = LOCALIDADE_MUNICIPIO.get(_chave(local), (local, uf))
+        chave = _chave_js(nome, uf)
+        mun = infovias.setdefault(iv, {}).setdefault(chave, {'nome': nome, 'uf': uf, 'inst': 0, 'lista': []})
+        mun['inst'] += 1
+        mun['lista'].append([(linha.get('instituicao') or '').strip(), (linha.get('tipo') or '').strip()])
+    saida = {}
+    for iv in INFOVIAS:
+        if iv not in infovias:
+            continue  # sem detalhamento no BI (ex.: infovias em planejamento)
+        muns = infovias[iv]
+        for m in muns.values():
+            m['lista'].sort(key=lambda x: _chave(x[0]))
+        saida[iv] = {'total': sum(m['inst'] for m in muns.values()), 'municipios': muns}
+    return {'operacao': INFOVIAS_OPERACAO, 'infovias': saida,
+            'indicador_bi': dados.get('total_bi'), 'linhas_tabela': dados.get('linhas'),
+            'aviso': dados.get('aviso_validacao')}
 
 
 def gravar_arquivo(cards, destino):
