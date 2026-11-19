@@ -3,6 +3,7 @@ import json
 from pathlib import Path
 from datetime import datetime, timezone
 from extrair_pontos import fetch, decode, complete, command, main as pontos
+from gerar_cards_infovias import gerar as gerar_cards, gravar_arquivo as gravar_cards
 
 BASE = Path(__file__).resolve().parent
 
@@ -53,10 +54,14 @@ def main():
             'aviso_decodificacao': decode_warning,
             'resposta_original': data
         })
+    # Gera e valida os cards por infovia ANTES de gravar qualquer arquivo.
+    # Se faltar um card, a execucao falha e nada e publicado.
+    cards = gerar_cards(configs, output)
     target = BASE.parent / 'data' / 'consultas_infovias.json'
     temporary = target.with_suffix('.tmp')
     temporary.write_text(json.dumps({'gerado_em': datetime.now(timezone.utc).isoformat(), 'consultas': output}, ensure_ascii=False, indent=2), encoding='utf-8')
     temporary.replace(target)
+    gravar_cards(cards, BASE.parent / 'data' / 'bi_cards_infovias.json')
     print('EXTRACAO VALIDADA. HTMLs nao foram alterados.')
 
 if __name__ == '__main__':
