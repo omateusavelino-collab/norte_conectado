@@ -1,0 +1,5394 @@
+{
+  "gerado_em": "2026-11-19T17:07:06.848491+00:00",
+  "total_bi": 770,
+  "linhas": 769,
+  "completo": true,
+  "total_confere_com_linhas": false,
+  "diferenca_indicador_menos_linhas": 1,
+  "aviso_validacao": "Tabela completa: 769 combinacoes; indicador BI: 770. As granularidades podem diferir; causa nao confirmada.",
+  "instituicoes": [
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Alenquer",
+      "uf": "PA",
+      "instituicao": "E M E F Jesus Conosco",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Alenquer",
+      "uf": "PA",
+      "instituicao": "Ecola Monteiro Lobato",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Alenquer",
+      "uf": "PA",
+      "instituicao": "EEEF Doutor José Jorge Hage",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Alenquer",
+      "uf": "PA",
+      "instituicao": "Eeem Amadeu Burlamaqui Simoes",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Alenquer",
+      "uf": "PA",
+      "instituicao": "EEEM Prefessora Beatriz do Vale",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Alenquer",
+      "uf": "PA",
+      "instituicao": "EMEF Nôr Michel Gantuss",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Alenquer",
+      "uf": "PA",
+      "instituicao": "EMEF. Nova Esperança",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Alenquer",
+      "uf": "PA",
+      "instituicao": "Escola Estadual Fulgêncio Simões",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Alenquer",
+      "uf": "PA",
+      "instituicao": "Escola Municipal Luiza Michel",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Alenquer",
+      "uf": "PA",
+      "instituicao": "Escola Professora Veridiana Corrêa",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Almeirim",
+      "uf": "PA",
+      "instituicao": "Conselho Escolar – SEMED Depart. Programas Educacionais",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Almeirim",
+      "uf": "PA",
+      "instituicao": "EEEM FREI CONSTANCIO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Almeirim",
+      "uf": "PA",
+      "instituicao": "EMEF FREI CONSTANCIO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Almeirim",
+      "uf": "PA",
+      "instituicao": "EMEF Professor Raimundo",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Almeirim",
+      "uf": "PA",
+      "instituicao": "EMEF Professora Eley Duarte Elleres",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Almeirim",
+      "uf": "PA",
+      "instituicao": "EMEF Professora Flavia Smith",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Almeirim",
+      "uf": "PA",
+      "instituicao": "EMEF Professora Ierece da Silva Santos",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Almeirim",
+      "uf": "PA",
+      "instituicao": "EMEI  Orlandina de Nazareth Pinto da Rocha",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Almeirim",
+      "uf": "PA",
+      "instituicao": "ERCEF Nossa Senhora Conceição",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Almeirim",
+      "uf": "PA",
+      "instituicao": "Escola Municipal de Ensino F. Dr. Pedro Batista de Souza",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Macapá",
+      "uf": "AP",
+      "instituicao": "E.E. Antônio Cordeiro Pontes ",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Macapá",
+      "uf": "AP",
+      "instituicao": "Escola Estadual Barão do Rio Branco",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Macapá",
+      "uf": "AP",
+      "instituicao": "Escola Estadual Cecília Pinto ",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Macapá",
+      "uf": "AP",
+      "instituicao": "Escola Estadual Dom Aristides Pirovano ",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Macapá",
+      "uf": "AP",
+      "instituicao": "Escola Estadual Dr Coaracy Nunes",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Macapá",
+      "uf": "AP",
+      "instituicao": "Escola Estadual Gabriel Almeida Café",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Macapá",
+      "uf": "AP",
+      "instituicao": "Escola Estadual Gonçalves Dias ",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Macapá",
+      "uf": "AP",
+      "instituicao": "Escola Estadual Lauro Chaves ",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Macapá",
+      "uf": "AP",
+      "instituicao": "Escola Estadual Modelo Guanabara ",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Macapá",
+      "uf": "AP",
+      "instituicao": "Escola Estadual Sebastiana Lenir de Almeida",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Monte Alegre",
+      "uf": "PA",
+      "instituicao": "Eeem C Presidente Fernando Henrique ",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Monte Alegre",
+      "uf": "PA",
+      "instituicao": "EEEM Francisco Nobre De Almeida",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Monte Alegre",
+      "uf": "PA",
+      "instituicao": "EMEF Carim Melém Fundamental",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Monte Alegre",
+      "uf": "PA",
+      "instituicao": "EMEIEF Expedito Correa Moreira",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Monte Alegre",
+      "uf": "PA",
+      "instituicao": "EMEIF Rosália Simões Barbosa",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Monte Alegre",
+      "uf": "PA",
+      "instituicao": "Escola Afrânio Lins",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Monte Alegre",
+      "uf": "PA",
+      "instituicao": "Escola Estadual de Ensino Médio Prefeito Carim Melém",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Monte Alegre",
+      "uf": "PA",
+      "instituicao": "Escola ETEPPA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Monte Alegre",
+      "uf": "PA",
+      "instituicao": "Escola Municipal de Ensino F. Archimimo Baia da Costa",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Monte Alegre",
+      "uf": "PA",
+      "instituicao": "Escola Municipal Santa Cruz",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Santarém",
+      "uf": "PA",
+      "instituicao": "EEEFM Almirante Soares Dutra",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Santarém",
+      "uf": "PA",
+      "instituicao": "EEEFM Barão do Tapajós",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Santarém",
+      "uf": "PA",
+      "instituicao": "EEEFM Frei Ambrosio",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Santarém",
+      "uf": "PA",
+      "instituicao": "EEEFM Júlia Gonçalves Passarinho",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Santarém",
+      "uf": "PA",
+      "instituicao": "EEEFM Madre Imaculada",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Santarém",
+      "uf": "PA",
+      "instituicao": "EEEFM Pedro Álvares Cabral",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Santarém",
+      "uf": "PA",
+      "instituicao": "EEEFM Rio Tapajós",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Santarém",
+      "uf": "PA",
+      "instituicao": "EEEM Diocesana São Francisco",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Santarém",
+      "uf": "PA",
+      "instituicao": "EMEF Rotary",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Santarém",
+      "uf": "PA",
+      "instituicao": "EMEIF Fluminense",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Autazes",
+      "uf": "AM",
+      "instituicao": "Centro de Educação Tecnologica do Amazonas",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Autazes",
+      "uf": "AM",
+      "instituicao": "IZAURA TORRES DA SILVA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Autazes",
+      "uf": "AM",
+      "instituicao": "JOSÉ THOMÉ",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Autazes",
+      "uf": "AM",
+      "instituicao": "Maria Emilia Martins Mestrinho de Medeiros Raposo",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Autazes",
+      "uf": "AM",
+      "instituicao": "PEDRO SANTAREM PENALBER",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Autazes",
+      "uf": "AM",
+      "instituicao": "PROF MARQUINA CORDOVIL GUIMARAES",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Autazes",
+      "uf": "AM",
+      "instituicao": "PROFª ERMELINDA SOARES STONE",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Autazes",
+      "uf": "AM",
+      "instituicao": "RAYMUNDO SA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Autazes",
+      "uf": "AM",
+      "instituicao": "VIDAL GOMES DE MELO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Curuá",
+      "uf": "PA",
+      "instituicao": "ISMAEL CHAVES",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Curuá",
+      "uf": "PA",
+      "instituicao": "PROFª VALDEIZES ALMEIDA NUNES",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Curuá",
+      "uf": "PA",
+      "instituicao": "SAO RAIMUNDO NONATO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Curuá",
+      "uf": "PA",
+      "instituicao": "SORAYA MARQUES CHAYB",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "CAPITAO-GENERAL MENDONCA FURTADO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "Centro de Educação Tecnologica do Amazonas",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "CENTRO EDUCACIONAL MUNICIPAL JAMEL AMED",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "CETI DOM JORGE EDWARD MARSKELL",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "CHIBLY CALIL ABRAHIMI",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "COLEGIO GRAO MESTRE VENANCIO IGREJAS LOPES",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "CORONEL CRUZ",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "DEPUTADO JOAO VALERIO DE OLIVEIRA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "DEPUTADO VITAL DE MENDONCA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "DOM PAULO MC HUGH",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "DR VICENTE DE MENDONCA JUNIOR",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "IRMAS DOROTEIA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "JOSE CARLOS MARTINS MESTRINHO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "MARIA IVONE DE ARAUJO LEITE",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "NILDA VINHOTE DA SILVA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "OSMARINA MELO DE OLIVEIRA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "PROF FERNANDO ELLIS RIBEIRO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "PROF VICENTE GERALDO DE MENDONCA LIMA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "PROFª BEREZITH NASCIMENTO DA SILVA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "PROFª LUIZA DE VASCONCELOS DIAS",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "PROFª MARIA HAIDE VALDEZ CHACON",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "PROFª MARIA NIRA GUIMARAES",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "PROFª MIRTES ROSA MENDES DE MENDONCA LIMA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "PROFª OLGA DE MORAES REGO FIGUEIREDO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "SENADOR JOAO BOSCO RAMOS DE LIMA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "TENENTE GERALDO ROSSI CHARCHAR",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "YEDA HENRIQUES DE SOUZA AUZIER",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Juruti",
+      "uf": "PA",
+      "instituicao": "BATISTA DILMA ROOSLI",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Juruti",
+      "uf": "PA",
+      "instituicao": "DEPUTADO AMERICO PEREIRA LIMA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Juruti",
+      "uf": "PA",
+      "instituicao": "ELZA ALBUQUERQUE DE LIMA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Juruti",
+      "uf": "PA",
+      "instituicao": "EMANUEL SALGADO VIEIRA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Juruti",
+      "uf": "PA",
+      "instituicao": "MARIA DA SAUDE PINHEIRO CUNHA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Juruti",
+      "uf": "PA",
+      "instituicao": "MARIA LUCIA NASCIMENTO DA SILVA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Juruti",
+      "uf": "PA",
+      "instituicao": "NOSSA SENHORA DA SAUDE",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Juruti",
+      "uf": "PA",
+      "instituicao": "PROF MARIA DA SILVA PEREIRA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Juruti",
+      "uf": "PA",
+      "instituicao": "ROSA DE SAROM",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Juruti",
+      "uf": "PA",
+      "instituicao": "VEREADOR RAIMUNDO DE SOUSA COELHO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Juruti",
+      "uf": "PA",
+      "instituicao": "VEREADOR RAIMUNDO DE SOUZA COELHO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Juruti",
+      "uf": "PA",
+      "instituicao": "ZELINDA DE SOUSA GUIMARAES",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Óbidos",
+      "uf": "PA",
+      "instituicao": "DOM FLORIANO LOEWENAU",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Óbidos",
+      "uf": "PA",
+      "instituicao": "DOUTOR RAYMUNDO CHAVES",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Óbidos",
+      "uf": "PA",
+      "instituicao": "DUQUE DE CAXIAS",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Óbidos",
+      "uf": "PA",
+      "instituicao": "FELIPE PATRONI",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Óbidos",
+      "uf": "PA",
+      "instituicao": "FREI EDMUNDO BONCKOSCH",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Óbidos",
+      "uf": "PA",
+      "instituicao": "GUILHERME LOPES DE BARROS",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Óbidos",
+      "uf": "PA",
+      "instituicao": "INGLES DE SOUZA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Óbidos",
+      "uf": "PA",
+      "instituicao": "IRMA FIRMINA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Óbidos",
+      "uf": "PA",
+      "instituicao": "JOSE VERISSIMO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Óbidos",
+      "uf": "PA",
+      "instituicao": "PROFº JOSE TOSTES",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Óbidos",
+      "uf": "PA",
+      "instituicao": "PROFº MANUEL VALENTE DO COUTO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Óbidos",
+      "uf": "PA",
+      "instituicao": "PROFº MAURICIO HAMOY",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Óbidos",
+      "uf": "PA",
+      "instituicao": "RAIMUNDO CARDOSO DE ARAUJO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Óbidos",
+      "uf": "PA",
+      "instituicao": "SAO FRANCISCO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Óbidos",
+      "uf": "PA",
+      "instituicao": "SAO JOSE",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Oriximiná",
+      "uf": "PA",
+      "instituicao": "DEPUTADO GABRIEL GUERREIRO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Oriximiná",
+      "uf": "PA",
+      "instituicao": "EEEM DR ALMIR GABRIEL",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Oriximiná",
+      "uf": "PA",
+      "instituicao": "EEEM PADRE JOSE NICOLINO DE SOUZA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Oriximiná",
+      "uf": "PA",
+      "instituicao": "EETEPA ORIXIMINA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Oriximiná",
+      "uf": "PA",
+      "instituicao": "HELVECIO GUERREIRO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Oriximiná",
+      "uf": "PA",
+      "instituicao": "JOAO PAULO I",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Oriximiná",
+      "uf": "PA",
+      "instituicao": "LAURA WANDERLEY DINIZ",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Oriximiná",
+      "uf": "PA",
+      "instituicao": "NOVA ESPERANCA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Oriximiná",
+      "uf": "PA",
+      "instituicao": "PROFª ADELIA FIGUEIRA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Oriximiná",
+      "uf": "PA",
+      "instituicao": "PROFª IRACEMA GIVONI",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Oriximiná",
+      "uf": "PA",
+      "instituicao": "PROFª JOANA BANDEIRA MONTEIRO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Oriximiná",
+      "uf": "PA",
+      "instituicao": "PROFª MARIA POMPEIA IUDICE DA SILVA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Oriximiná",
+      "uf": "PA",
+      "instituicao": "PROFª MARIA QUEIROZ DE SOUZA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Oriximiná",
+      "uf": "PA",
+      "instituicao": "PROFESSOR ASSUNCAO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Oriximiná",
+      "uf": "PA",
+      "instituicao": "RAIMUNDO MUNIZ DE FIGUEIREDO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Oriximiná",
+      "uf": "PA",
+      "instituicao": "SANTA MARIA GORETTI",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Oriximiná",
+      "uf": "PA",
+      "instituicao": "SENADOR ALOYSIO DA COSTA CHAVES",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Oriximiná",
+      "uf": "PA",
+      "instituicao": "SENADOR LAMEIRA BITTENCOURT",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "ARAUJO FILHO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "BEATRIZ MARANHAO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "BRANDAO DE AMORIM",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "Centro de Educação Tecnologica do Amazonas",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "CHARLES GARCIA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "CLAUDEMIR CARVALHO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "COLEGIO BATISTA DE PARINTINS",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "COLEGIO NOSSA SENHORA DO CARMO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "DA PAZ DE PARINTINS",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "DOM GINO MALVESTIO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "GENTIL BELEM",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "GENY BENTES DE JESUS",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "GLAUCIO GONCALVES",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "IRMA CRISTINE",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "IRMA SA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "LILA MAIA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "LUZ DO SABER",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "MERCIA CARDOSO COIMBRA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "MINISTRO WALDEMAR PEDROSA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "PADRE JORGE FREIZZINNI",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "PRESBIT. MISSIONARIA SUE ANN COUSAR",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "PROF ADERSON DE MENEZES",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "RYOTA OYAMA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "SAO FRANCISCO DE ASSIS",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "SAO JOSE OPERARIO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "SENADOR ALVARO MAIA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "SENADOR JOAO BOSCO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "SUZANA DE JESUS AZEDO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "TOMASZINHO MEIRELLES",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Terra Santa",
+      "uf": "PA",
+      "instituicao": "ANTONIO CANDIDO MACHADO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Terra Santa",
+      "uf": "PA",
+      "instituicao": "JOSÉ PICANÇO BENTES",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Terra Santa",
+      "uf": "PA",
+      "instituicao": "NEUSA BENTES DIOGO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Terra Santa",
+      "uf": "PA",
+      "instituicao": "PADRE JOSE NICOLINO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Terra Santa",
+      "uf": "PA",
+      "instituicao": "PROFª EDMARA CUNHA CARVALHO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Terra Santa",
+      "uf": "PA",
+      "instituicao": "PROFª FRANCISCA SOUZA BARBOSA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Terra Santa",
+      "uf": "PA",
+      "instituicao": "PROFª NUBIA BENTES PICANCO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Terra Santa",
+      "uf": "PA",
+      "instituicao": "PROFº LEONOR MACHADO FERNANDES",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Terra Santa",
+      "uf": "PA",
+      "instituicao": "RAIMUNDA DA COSTA BENTES",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Terra Santa",
+      "uf": "PA",
+      "instituicao": "SAO SEBASTIAO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Terra Santa",
+      "uf": "PA",
+      "instituicao": "SIMONE DAS NEVES PINHEIRO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Urucurituba",
+      "uf": "AM",
+      "instituicao": "Centro de Educação Tecnologica do Amazonas",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Urucurituba",
+      "uf": "AM",
+      "instituicao": "MARIA ARRUDA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Urucurituba",
+      "uf": "AM",
+      "instituicao": "PROF DJANIRA NEVES DE LIMA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Urucurituba",
+      "uf": "AM",
+      "instituicao": "PROF JOSE GAMA FILHO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Urucurituba",
+      "uf": "AM",
+      "instituicao": "PROF SUZETE TUNDIS CARVALHO",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Urucurituba",
+      "uf": "AM",
+      "instituicao": "PROFESSOR ARMANDO KETTLE",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Alvarães",
+      "uf": "AM",
+      "instituicao": "Centro de Educação Tecnologica do Amazonas",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Alvarães",
+      "uf": "AM",
+      "instituicao": "E.E Prof Gilberto Mestrinho",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Alvarães",
+      "uf": "AM",
+      "instituicao": "E.E Prof Johannes Petrus",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Alvarães",
+      "uf": "AM",
+      "instituicao": "E.E Senador Fabio Lucena",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Alvarães",
+      "uf": "AM",
+      "instituicao": "E.M Atanazia Frazao",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Alvarães",
+      "uf": "AM",
+      "instituicao": "E.M Mayara Aziz",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Amaturá",
+      "uf": "AM",
+      "instituicao": "Centro de Educação Tecnologica do Amazonas",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Amaturá",
+      "uf": "AM",
+      "instituicao": "E.E Amatura",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Amaturá",
+      "uf": "AM",
+      "instituicao": "E.M Eudocia Andrade",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Amaturá",
+      "uf": "AM",
+      "instituicao": "E.M Vitoria Simao",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Anamã",
+      "uf": "AM",
+      "instituicao": "Centro de Educação Tecnologica do Amazonas",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Anamã",
+      "uf": "AM",
+      "instituicao": "Escola Estadual Alcinda Pinheiro Costa",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Anamã",
+      "uf": "AM",
+      "instituicao": "Escola Estadual Jesuina Regis",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Anamã",
+      "uf": "AM",
+      "instituicao": "Escola Estadual Tancredo Neves",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Anamã",
+      "uf": "AM",
+      "instituicao": "Escola Municipal Ivan Jaques",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Anamã",
+      "uf": "AM",
+      "instituicao": "Escola Municipal Raimilda Suely Antunes",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Anori",
+      "uf": "AM",
+      "instituicao": "Centro de Educação Tecnologica do Amazonas",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Anori",
+      "uf": "AM",
+      "instituicao": "Escola Estadual Almerinda Nogueira Uchoa Izel",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Anori",
+      "uf": "AM",
+      "instituicao": "Escola Estadual Eurico Gaspar Dutra",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Anori",
+      "uf": "AM",
+      "instituicao": "Escola Estadual Presidente Costa E Silva",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Anori",
+      "uf": "AM",
+      "instituicao": "Escola Municipal Professor José Alves Roberto",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Anori",
+      "uf": "AM",
+      "instituicao": "Escola Pedro Rienzi de Mello Rosas",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Anori",
+      "uf": "AM",
+      "instituicao": "Escola Professora Haide Miranda Camara",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Atalaia do Norte",
+      "uf": "AM",
+      "instituicao": "E.E Carmozina Baima de Almeida",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Atalaia do Norte",
+      "uf": "AM",
+      "instituicao": "E.E Pio Veiga",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Atalaia do Norte",
+      "uf": "AM",
+      "instituicao": "E.E Prof. Tereza Lemos de Oliveira Santos",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Atalaia do Norte",
+      "uf": "AM",
+      "instituicao": "E.M Colonia do Boia",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Atalaia do Norte",
+      "uf": "AM",
+      "instituicao": "E.M Professora Luciney Mello Carneiro",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Atalaia do Norte",
+      "uf": "AM",
+      "instituicao": "E.M Raimunda Galate",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Belém dos Solimões",
+      "uf": "AM",
+      "instituicao": "E.E. Belem do Solimões",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Belém dos Solimões",
+      "uf": "AM",
+      "instituicao": "E.M  Indigena Ngetchutchu Ya Mecu",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Belém dos Solimões",
+      "uf": "AM",
+      "instituicao": "E.M. Indigena Eware Mowatcha",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Benjamim Constant",
+      "uf": "AM",
+      "instituicao": "Centro de Educação Tecnologica do Amazonas",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Benjamim Constant",
+      "uf": "AM",
+      "instituicao": "E.E Coronel Raymundo Cunha",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Benjamim Constant",
+      "uf": "AM",
+      "instituicao": "E.E Nossa Senhora da Imaculada Conceicao",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Benjamim Constant",
+      "uf": "AM",
+      "instituicao": "E.E Professor Aristelio Sabino de Oliveira",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Benjamim Constant",
+      "uf": "AM",
+      "instituicao": "E.E Professora Rosa Cruz",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Benjamim Constant",
+      "uf": "AM",
+      "instituicao": "E.M Cosme Jean",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Benjamim Constant",
+      "uf": "AM",
+      "instituicao": "E.M Olavo Bilac",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Benjamim Constant",
+      "uf": "AM",
+      "instituicao": "E.M Prof. Graziela Correa de Oliveira",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Benjamim Constant",
+      "uf": "AM",
+      "instituicao": "E.M Prof. Margarete Rabelo Coelho / Cesbi",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Benjamim Constant",
+      "uf": "AM",
+      "instituicao": "E.M Professora Sofia Barbosa",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Coari",
+      "uf": "AM",
+      "instituicao": "Escola Est. Ceti Prof. Manuel Vicente Ferreira Lima",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Coari",
+      "uf": "AM",
+      "instituicao": "Escola Estadual João Vieira",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Coari",
+      "uf": "AM",
+      "instituicao": "Escola Estadual Maria Almeida do Nascimento",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Coari",
+      "uf": "AM",
+      "instituicao": "Escola Estadual N S Perpetuo Socorro",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Coari",
+      "uf": "AM",
+      "instituicao": "Escola Estadual Prefeito Alexandre Montoril",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Coari",
+      "uf": "AM",
+      "instituicao": "Escola Municipal Domingos Agenor Smith",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Coari",
+      "uf": "AM",
+      "instituicao": "Escola Municipal Maria Elisangela Litaiff",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Coari",
+      "uf": "AM",
+      "instituicao": "Escola Municipal Raimunda Cruz e Silva",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Coari",
+      "uf": "AM",
+      "instituicao": "Escola Municipal Rui Souto Alencar",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Coari",
+      "uf": "AM",
+      "instituicao": "Escola Municipal Ursulina Souza de Oliveira",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Coari",
+      "uf": "AM",
+      "instituicao": "Instituto Bereano de Coari",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Codajás",
+      "uf": "AM",
+      "instituicao": "Centro de Educação Tecnologica do Amazonas",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Codajás",
+      "uf": "AM",
+      "instituicao": "Ceti Jose de Araujo Rodrigues",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Codajás",
+      "uf": "AM",
+      "instituicao": "Escola E. Prof. Gilberto Mestrinho de Medeiros Raposo",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Codajás",
+      "uf": "AM",
+      "instituicao": "Escola Est. Indígena Prof. Luiz Gonzaga de Souza Filho",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Codajás",
+      "uf": "AM",
+      "instituicao": "Escola Est. Nossa Senhora das Graças",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Codajás",
+      "uf": "AM",
+      "instituicao": "Escola Estadual Jose Melo de Oliveira",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Codajás",
+      "uf": "AM",
+      "instituicao": "Escola Estadual Rodrigo Costa",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Codajás",
+      "uf": "AM",
+      "instituicao": "Escola Estadual Wilson Garcia Bastos",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Codajás",
+      "uf": "AM",
+      "instituicao": "Escola Municipal Dona Maria Braga",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Codajás",
+      "uf": "AM",
+      "instituicao": "Escola Municipal Instituto Eurico Nelson",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Codajás",
+      "uf": "AM",
+      "instituicao": "Escola Municipal Ozias Monteiro Rodrigues",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Fonte Boa",
+      "uf": "AM",
+      "instituicao": "Centro de Educação Tecnologica do Amazonas",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Fonte Boa",
+      "uf": "AM",
+      "instituicao": "E.E Armando Mendes",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Fonte Boa",
+      "uf": "AM",
+      "instituicao": "E.E Nossa Senhora de Guadalupe",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Fonte Boa",
+      "uf": "AM",
+      "instituicao": "E.E Sao Jose",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Fonte Boa",
+      "uf": "AM",
+      "instituicao": "E.E Waldemarina Ferreira",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Fonte Boa",
+      "uf": "AM",
+      "instituicao": "E.E Zulmira Lima Lins",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Fonte Boa",
+      "uf": "AM",
+      "instituicao": "E.M Filomena Lisboa",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Fonte Boa",
+      "uf": "AM",
+      "instituicao": "E.M Francisca Creuza M de Paula",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Fonte Boa",
+      "uf": "AM",
+      "instituicao": "E.M Prof Valnei Correa de Souza",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Iranduba",
+      "uf": "AM",
+      "instituicao": "Escola Estadual Cecília Carneiro de Oliveira",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Iranduba",
+      "uf": "AM",
+      "instituicao": "Escola Estadual Isaias Vasconcelos",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Iranduba",
+      "uf": "AM",
+      "instituicao": "Escola Municipal Ana Barbosa de Castro",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Iranduba",
+      "uf": "AM",
+      "instituicao": "Escola Municipal Creuza Abess Farah",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Iranduba",
+      "uf": "AM",
+      "instituicao": "Escola Municipal Fernando Damasceno",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Iranduba",
+      "uf": "AM",
+      "instituicao": "Escola Municipal Guido Affonso Hickmann",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Iranduba",
+      "uf": "AM",
+      "instituicao": "Escola Municipal Noemi Santos Pereira",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Iranduba",
+      "uf": "AM",
+      "instituicao": "Escola Municipal Segundo Ebling",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Iranduba",
+      "uf": "AM",
+      "instituicao": "Escola Professora Ervila Souza de Assis",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Jutaí",
+      "uf": "AM",
+      "instituicao": "E.E Irma Bruna",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Jutaí",
+      "uf": "AM",
+      "instituicao": "E.E Padre Joao Van Den",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Jutaí",
+      "uf": "AM",
+      "instituicao": "E.E Sao Francisco",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Jutaí",
+      "uf": "AM",
+      "instituicao": "E.M Bom Jesus",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Jutaí",
+      "uf": "AM",
+      "instituicao": "E.M Caio de Araujo Lasmar",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Jutaí",
+      "uf": "AM",
+      "instituicao": "E.M Deusuila de Paula Aguiar",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Jutaí",
+      "uf": "AM",
+      "instituicao": "E.M Presidente Tancredo Neves",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Jutaí",
+      "uf": "AM",
+      "instituicao": "E.M Santa Tereza",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Manacapuru",
+      "uf": "AM",
+      "instituicao": "EMEF Governador Henoch da Silva Reis",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Manacapuru",
+      "uf": "AM",
+      "instituicao": "EMEF Manorel Afonso de Brito",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Manacapuru",
+      "uf": "AM",
+      "instituicao": "EMEF Maria do Socorro Queiroz Farias",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Manacapuru",
+      "uf": "AM",
+      "instituicao": "EMEF Prof Beatriz da Silva Bezerra",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Manacapuru",
+      "uf": "AM",
+      "instituicao": "EMEF Professora Francisca Mafra de Carvalho",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Manacapuru",
+      "uf": "AM",
+      "instituicao": "EMEF Zoraida Ribeiro Alexandre",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Manacapuru",
+      "uf": "AM",
+      "instituicao": "Escola Estadual Agra Reis",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Manacapuru",
+      "uf": "AM",
+      "instituicao": "Escola Estadual Andre Vidal de Araujo",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Manacapuru",
+      "uf": "AM",
+      "instituicao": "Escola Estadual Carlos Pinho",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Manacapuru",
+      "uf": "AM",
+      "instituicao": "Escola Estadual Jamil Seffair",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Manacapuru",
+      "uf": "AM",
+      "instituicao": "Escola Estadual Jose Mota",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Manacapuru",
+      "uf": "AM",
+      "instituicao": "Escola Estadual Jose Seffair",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Manacapuru",
+      "uf": "AM",
+      "instituicao": "Escola Estadual Nossa Senhora de Nazare",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "São Paulo de O.",
+      "uf": "AM",
+      "instituicao": "E.E  Desembargador Joao Rebelo Correa",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "São Paulo de O.",
+      "uf": "AM",
+      "instituicao": "E.E  Monsenhor Evangelista Cefalonia",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "São Paulo de O.",
+      "uf": "AM",
+      "instituicao": "E.E  Professora Nilce Rocha Coelho",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "São Paulo de O.",
+      "uf": "AM",
+      "instituicao": "E.E Calixto Ribeiro",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "São Paulo de O.",
+      "uf": "AM",
+      "instituicao": "E.E Domenico Marzi",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "São Paulo de O.",
+      "uf": "AM",
+      "instituicao": "E.M Indig. Kambeba Prof Ivan Balieiro Saraiva",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "São Paulo de O.",
+      "uf": "AM",
+      "instituicao": "E.M Professora Marlita Pinto Elias",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "São Paulo de O.",
+      "uf": "AM",
+      "instituicao": "E.M Professora Sonia Maria - CETAM",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "São Paulo de O.",
+      "uf": "AM",
+      "instituicao": "E.M Sonho Infantil",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "St. Antônio do Içá",
+      "uf": "AM",
+      "instituicao": "Centro de Educação Tecnologica do Amazonas",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "St. Antônio do Içá",
+      "uf": "AM",
+      "instituicao": "E.E Deuzalina Pinto Ribeiro",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "St. Antônio do Içá",
+      "uf": "AM",
+      "instituicao": "E.E Eduardo Ribeiro",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "St. Antônio do Içá",
+      "uf": "AM",
+      "instituicao": "E.E Rosa Garcia",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "St. Antônio do Içá",
+      "uf": "AM",
+      "instituicao": "E.E Santo Antonio",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "St. Antônio do Içá",
+      "uf": "AM",
+      "instituicao": "E.M Indigena Maria Pinto Pereira",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "St. Antônio do Içá",
+      "uf": "AM",
+      "instituicao": "E.M Josue Cordeiro de Souza",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "St. Antônio do Içá",
+      "uf": "AM",
+      "instituicao": "E.M Nossa Senhora da Saude",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "St. Antônio do Içá",
+      "uf": "AM",
+      "instituicao": "E.M Prof Maria Rubim Braga",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "St. Antônio do Içá",
+      "uf": "AM",
+      "instituicao": "E.M Professor Zenith Ramos",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tabatinga",
+      "uf": "AM",
+      "instituicao": "Centro de Educação Tecnologica do Amazonas",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tabatinga",
+      "uf": "AM",
+      "instituicao": "E. M Professor Luiz Soares dos Santos",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tabatinga",
+      "uf": "AM",
+      "instituicao": "E. M Professora Maria Batista Lopes",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tabatinga",
+      "uf": "AM",
+      "instituicao": "E. M Professora Suely Peixoto Davila",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tabatinga",
+      "uf": "AM",
+      "instituicao": "E. M Senador Fabio Lucena",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tabatinga",
+      "uf": "AM",
+      "instituicao": "E.E  Conceicao Xavier de Alencar",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tabatinga",
+      "uf": "AM",
+      "instituicao": "E.E  Duque de Caxias",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tabatinga",
+      "uf": "AM",
+      "instituicao": "E.E  Marechal Rondon",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tabatinga",
+      "uf": "AM",
+      "instituicao": "E.E  Pedro Teixeira",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tabatinga",
+      "uf": "AM",
+      "instituicao": "E.E  Prof. Raimundo da Silva Carvalho",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tabatinga",
+      "uf": "AM",
+      "instituicao": "E.E Joao Carlos Pereira dos Santos",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tabatinga",
+      "uf": "AM",
+      "instituicao": "E.M  Francisco Mendes",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tabatinga",
+      "uf": "AM",
+      "instituicao": "E.M  Professora Jociedes Andrade",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tabatinga",
+      "uf": "AM",
+      "instituicao": "E.M Prof Ambrosio Bemerguy",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "Centro de Educação Tecnologica do Amazonas",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "E. E Alcy Jara de Queiroz",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "E. E Antídio Borges Façanha",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "E. E Eduardo Ribeiro",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "E. E Eduardo Sá",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "E. E Getúlio Vargas",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "E. E Madre Maria das Merces",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "E. E Profª Nazira Litaiff Moriz",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "E. E Professor Isidoro Gonçalves de Souza",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "E. E Santa Thereza",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "E. E São José",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "E. M Bertholletia Excelsa",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "E. M Caminho Feliz",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "E. M Profª Dorotéia Bezerra dos Santos",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "E. M São Francisco",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "E.E Corintho Borges Facanha",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "E.E Dep Armando De Souza Mendes",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "E.E Frei Andre da Costa",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "E.E Governador Gilberto Mestrinho",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "E.M Colonia Ventura",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "E.M Mayara Redman Abdel Aziz",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "E.M Prof Helyon De Oliveira",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "E.M Walter Cabral",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "E.M Wenceslau De Queiroz",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tonantins",
+      "uf": "AM",
+      "instituicao": "E.E  Madre Regina Protmann",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tonantins",
+      "uf": "AM",
+      "instituicao": "E.E Sao Francisco",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tonantins",
+      "uf": "AM",
+      "instituicao": "E.M Alfredo Pessoa",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tonantins",
+      "uf": "AM",
+      "instituicao": "E.M Benedito Rodrigues",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tonantins",
+      "uf": "AM",
+      "instituicao": "E.M Jose Raimundo da Costa",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tonantins",
+      "uf": "AM",
+      "instituicao": "E.M Lucila Maria Rodrigues",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tonantins",
+      "uf": "AM",
+      "instituicao": "E.M Octavio Amazonas",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tonantins",
+      "uf": "AM",
+      "instituicao": "E.M Santo Expedito",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tonantins",
+      "uf": "AM",
+      "instituicao": "E.M Sao Francisco de Assis",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tonantins",
+      "uf": "AM",
+      "instituicao": "E.M Suzana Alborado",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Uarini",
+      "uf": "AM",
+      "instituicao": "Centro de Educação Tecnologica do Amazonas",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Uarini",
+      "uf": "AM",
+      "instituicao": "E.E Edson Melo",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Uarini",
+      "uf": "AM",
+      "instituicao": "E.E Hermano Stradelli",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Uarini",
+      "uf": "AM",
+      "instituicao": "E.M Azenilda Braga Lopes",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Uarini",
+      "uf": "AM",
+      "instituicao": "E.M Carlos Braga",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Uarini",
+      "uf": "AM",
+      "instituicao": "E.M Ednelza Bezerra Trindade",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Uarini",
+      "uf": "AM",
+      "instituicao": "E.M Professora Maria Marcelina",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Uarini",
+      "uf": "AM",
+      "instituicao": "E.M Santiago Canayo Peres",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Afuá",
+      "uf": "PA",
+      "instituicao": "E.E Leopoldina Guerreiro",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Afuá",
+      "uf": "PA",
+      "instituicao": "E.M Frei Faustino Legard",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Afuá",
+      "uf": "PA",
+      "instituicao": "E.M Leopoldodina Guerreiro",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Afuá",
+      "uf": "PA",
+      "instituicao": "E.M Prof Nadir Lobato de Ataide",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Afuá",
+      "uf": "PA",
+      "instituicao": "E.M Professora Raimunda Barauna",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Belém",
+      "uf": "PA",
+      "instituicao": "E.E Alexandre Zacarias De Assuncao",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Belém",
+      "uf": "PA",
+      "instituicao": "E.E Almirante Guillobel",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Belém",
+      "uf": "PA",
+      "instituicao": "E.E Barão de Igarape Miri",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Belém",
+      "uf": "PA",
+      "instituicao": "E.E Brigadeiro Fontenelle",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Belém",
+      "uf": "PA",
+      "instituicao": "E.E Dr Justo Chermont",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Belém",
+      "uf": "PA",
+      "instituicao": "E.E Frei Daniel",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Belém",
+      "uf": "PA",
+      "instituicao": "E.E José Alves Maia",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Belém",
+      "uf": "PA",
+      "instituicao": "E.E Magalhães Barata",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Belém",
+      "uf": "PA",
+      "instituicao": "E.E Pães de Carvalho",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Belém",
+      "uf": "PA",
+      "instituicao": "E.E Pedro Amazonas Pedroso",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Belém",
+      "uf": "PA",
+      "instituicao": "E.E Santo Afonso",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Belém",
+      "uf": "PA",
+      "instituicao": "E.F Tenente Rego Barros",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Belém",
+      "uf": "PA",
+      "instituicao": "Escola de Aplicacao da UFPA",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Breves",
+      "uf": "PA",
+      "instituicao": "E.E Prof. Gerson Peres",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Breves",
+      "uf": "PA",
+      "instituicao": "E.E Profa Maria Camara Paes",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Breves",
+      "uf": "PA",
+      "instituicao": "E.E Profa. Maria Elizete Fona Nunes",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Breves",
+      "uf": "PA",
+      "instituicao": "E.M Bom Jesus",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Breves",
+      "uf": "PA",
+      "instituicao": "E.M da Ilha Marajocedim",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Breves",
+      "uf": "PA",
+      "instituicao": "E.M Dr Lauro Sodre",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Breves",
+      "uf": "PA",
+      "instituicao": "E.M Emerentina Moreira de Souza",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Breves",
+      "uf": "PA",
+      "instituicao": "E.M Miguel Bitar",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Breves",
+      "uf": "PA",
+      "instituicao": "E.M Prof. Aurea Maria da Silva Cunha",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Breves",
+      "uf": "PA",
+      "instituicao": "E.M Prof. Odizia Correa Farias",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Breves",
+      "uf": "PA",
+      "instituicao": "E.M Professor Estevão Gomes",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Breves",
+      "uf": "PA",
+      "instituicao": "E.M Santa Monica",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Breves",
+      "uf": "PA",
+      "instituicao": "E.M Santo Agostinho",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Curralinho",
+      "uf": "PA",
+      "instituicao": "E.E Manoel da Vera Cruz Sá",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Curralinho",
+      "uf": "PA",
+      "instituicao": "E.E Prado Lopes",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Curralinho",
+      "uf": "PA",
+      "instituicao": "E.M Francisco Chagas da Silva",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Curralinho",
+      "uf": "PA",
+      "instituicao": "E.M Prep Agroamb Prof. Lindalva Pinho",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Curralinho",
+      "uf": "PA",
+      "instituicao": "E.M Sitio Porto Alegre",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Ponta de Pedras",
+      "uf": "PA",
+      "instituicao": "E.E Aureliana Monteiro",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Ponta de Pedras",
+      "uf": "PA",
+      "instituicao": "E.E Dalcidio Jurandir",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Ponta de Pedras",
+      "uf": "PA",
+      "instituicao": "E.E Dra Ester Mouta Sede",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Ponta de Pedras",
+      "uf": "PA",
+      "instituicao": "E.M Desembargador Oswaldo Pojucan Tavares",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Ponta de Pedras",
+      "uf": "PA",
+      "instituicao": "E.M Dona Messiana Monteiro Malato",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Ponta de Pedras",
+      "uf": "PA",
+      "instituicao": "E.M Doutor Romeu Ferreira dos Santos",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Ponta de Pedras",
+      "uf": "PA",
+      "instituicao": "E.M João Cabral Noronha",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Ponta de Pedras",
+      "uf": "PA",
+      "instituicao": "E.M Ministro Jarbas Passarinho",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Ponta de Pedras",
+      "uf": "PA",
+      "instituicao": "E.M Padre Guido Fossatti",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Ponta de Pedras",
+      "uf": "PA",
+      "instituicao": "E.M Semente do Saber",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "E.E Ana Liboria",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "E.E Cel Pm Derly Luiz Vieira Borges",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "E.E Dr Ulysses Guimaraes",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "E.E Fagundes Varela",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "E.E Fernando Grangeiro De Menezes",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "E.E Goncalves Dias",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "E.E Lobo Dalmada",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "E.E Militarizado Dr Luiz Rittler Brito De Lucena",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "E.E Militarizado Ix Pedro Elias Albuquerque Pereira",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "E.E Militarizado Profª Wanda David Aguiar - Cem Xi",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "E.E Monteiro Lobato",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "E.E Presidente Tancredo Neves",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "E.E Profª Antonia Coelho De Lucena",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "E.E Professor Camilo Dias",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "E.E Professor Severino Goncalo Gomes Cavalcante",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "E.E Professora Diva Alves De Lima",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "E.E Sao Jose",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "E.E Senador Helio Da Costa Campos",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "E.M Dalicio Faria Filho",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "E.M Frei Artur Agostini",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "E.M Ioladio Batista Da Silva",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "E.M Juslany De Souza Flores",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "E.M Maria Teresa Maciel Da Silveira Melo",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "E.M Nova Canaa",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "E.M Palmira De Castro Machado",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "E.M Profª Amazona De Oliveira Monteiro",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "E.M Professor Carlos Raimundo Rodrigues",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "E.M Valdemarina Normando Martins",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Caracaraí",
+      "uf": "RR",
+      "instituicao": "E.E Joao Rogelio Schuertz-Cem XIII",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Caracaraí",
+      "uf": "RR",
+      "instituicao": "E.E Jose Vieira de Sales Guerra",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Caracaraí",
+      "uf": "RR",
+      "instituicao": "E.E Presidente Castelo Branco",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Caracaraí",
+      "uf": "RR",
+      "instituicao": "E.M Couto de Magalhaes",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Caracaraí",
+      "uf": "RR",
+      "instituicao": "E.M Crianca Feliz",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Caracaraí",
+      "uf": "RR",
+      "instituicao": "E.M Idnea Barbosa Ferreira",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Caracaraí",
+      "uf": "RR",
+      "instituicao": "E.M Manoel Pereira da Costa",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Novo Airão",
+      "uf": "AM",
+      "instituicao": "Centro de Educação Tecnologica do Amazonas",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Novo Airão",
+      "uf": "AM",
+      "instituicao": "Escola Estadual Balbina Mestrinho",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Novo Airão",
+      "uf": "AM",
+      "instituicao": "Escola Estadual Danilo de Mattos Areosa",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Novo Airão",
+      "uf": "AM",
+      "instituicao": "Escola Estadual Joaquim de Paula",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Novo Airão",
+      "uf": "AM",
+      "instituicao": "Escola Municipal Aristoteles Freire Arnoud",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Novo Airão",
+      "uf": "AM",
+      "instituicao": "Escola Municipal Raimundo Nonato Teixeira",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Novo Airão",
+      "uf": "AM",
+      "instituicao": "Escola Municipal Violeta Cardoso Alves de Mattos Areosa",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Sta. Maria do Boiaçu",
+      "uf": "RR",
+      "instituicao": "E.E Jose Bonifacio",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Sta. Maria do Boiaçu",
+      "uf": "RR",
+      "instituicao": "E.M Vovo Tetinha",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Vila de Moura",
+      "uf": "AM",
+      "instituicao": "E.E. C.  Rural de Ens. Mediação Tecn. de Barcelos",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Vila de Moura",
+      "uf": "AM",
+      "instituicao": "E.M Santa Rita",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Auxiliadora",
+      "uf": "AM",
+      "instituicao": "Escola São Domingos Savio",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Borba",
+      "uf": "AM",
+      "instituicao": "Centro de Educação Tecnologica do Amazonas",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Borba",
+      "uf": "AM",
+      "instituicao": "E. E. Balbina Mestrinho",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Borba",
+      "uf": "AM",
+      "instituicao": "E. E. Benedito Gumercindo de Souza",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Borba",
+      "uf": "AM",
+      "instituicao": "E. E. Conego Bento Jose de Souza",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Borba",
+      "uf": "AM",
+      "instituicao": "E. E. Jose Holanda Cavalcante",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Borba",
+      "uf": "AM",
+      "instituicao": "E. E. Lothar Sussman",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Borba",
+      "uf": "AM",
+      "instituicao": "E. E. Monsenhor Coutinho",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Borba",
+      "uf": "AM",
+      "instituicao": "E. E. Senador Alvaro Maia",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Borba",
+      "uf": "AM",
+      "instituicao": "E. M. Desembargador Dr Francisco das Chagas Auzier Moreira",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Borba",
+      "uf": "AM",
+      "instituicao": "E. M. Dr. Adelino Costa",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Calama",
+      "uf": "RO",
+      "instituicao": "E. M. Dra. Ana Adelaide Granjeiro",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Calama",
+      "uf": "RO",
+      "instituicao": "EEEFM General Osorio",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Humaitá",
+      "uf": "AM",
+      "instituicao": "Centro de Educação Tecnologica do Amazonas",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Humaitá",
+      "uf": "AM",
+      "instituicao": "E. E. Centro Educ Integral Tarcila Prado de Negreiros Mendes",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Humaitá",
+      "uf": "AM",
+      "instituicao": "E. E. Governador Plinio Ramos Coelho",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Humaitá",
+      "uf": "AM",
+      "instituicao": "E. E. Patronato Maria Auxiliadora",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Humaitá",
+      "uf": "AM",
+      "instituicao": "E. M. Dom Bosco",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Humaitá",
+      "uf": "AM",
+      "instituicao": "E. M. Irmã Maria Carmem Cronenbold",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Humaitá",
+      "uf": "AM",
+      "instituicao": "E. M. Jose Cezario Menezes de Barros",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Humaitá",
+      "uf": "AM",
+      "instituicao": "E. M. Rosa de Sarom",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Humaitá",
+      "uf": "AM",
+      "instituicao": "Escola Estadual Gilberto Mestrinho",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Humaitá",
+      "uf": "AM",
+      "instituicao": "Escola Municipal São Francisco",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Humaitá",
+      "uf": "AM",
+      "instituicao": "Escola Municipal Tancredo Neves",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Manicoré",
+      "uf": "AM",
+      "instituicao": "Centro de Educação Tecnologica do Amazonas",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Manicoré",
+      "uf": "AM",
+      "instituicao": "E. E. Hermenegildo de Campos",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Manicoré",
+      "uf": "AM",
+      "instituicao": "E. E. Historiador Arindal Vinicius da Fonseca Reis",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Manicoré",
+      "uf": "AM",
+      "instituicao": "E. E. Maria Sa Mota",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Manicoré",
+      "uf": "AM",
+      "instituicao": "E. E. Nª Sª das Graças",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Manicoré",
+      "uf": "AM",
+      "instituicao": "E. E. Pedro Aguirre",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Manicoré",
+      "uf": "AM",
+      "instituicao": "E. E. Senador João Bosco Ramos de Lima",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Manicoré",
+      "uf": "AM",
+      "instituicao": "E. M. Aristeu da Cunha Virgolino",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Manicoré",
+      "uf": "AM",
+      "instituicao": "E. M. Doutor Edmundo Juarez",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Manicoré",
+      "uf": "AM",
+      "instituicao": "Escola Estadual Didimo Soares",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Nova Olinda do Norte",
+      "uf": "AM",
+      "instituicao": "Centro de Educação Tecnologica do Amazonas",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Nova Olinda do Norte",
+      "uf": "AM",
+      "instituicao": "E. E. Ceti Professora Rosaria Marinho Paes",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Nova Olinda do Norte",
+      "uf": "AM",
+      "instituicao": "E. E. Engo Abilio Nery",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Nova Olinda do Norte",
+      "uf": "AM",
+      "instituicao": "E. E. Prof.ª Isabel Barroncas",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Nova Olinda do Norte",
+      "uf": "AM",
+      "instituicao": "E. E. Professor Jose Paula de Sá",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Nova Olinda do Norte",
+      "uf": "AM",
+      "instituicao": "E. E. Professora Maria Araujo Sales",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Nova Olinda do Norte",
+      "uf": "AM",
+      "instituicao": "E. M. Colegio Militar M. Prof.ª Lami da Silva Vinhote",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Nova Olinda do Norte",
+      "uf": "AM",
+      "instituicao": "E. M. Colegio Militar Mun. Prof.ª Maria de Fatima Pacheco",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Nova Olinda do Norte",
+      "uf": "AM",
+      "instituicao": "E. M. Lirio do Vale",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Nova Olinda do Norte",
+      "uf": "AM",
+      "instituicao": "Escola Estadual Nossa Senhora de Nazare",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Novo Aripuanã",
+      "uf": "AM",
+      "instituicao": "Centro de Educação Tecnologica do Amazonas",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Novo Aripuanã",
+      "uf": "AM",
+      "instituicao": "E. E. Francisco de Sá",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Novo Aripuanã",
+      "uf": "AM",
+      "instituicao": "E. E. Guilherme Buzaglo",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Novo Aripuanã",
+      "uf": "AM",
+      "instituicao": "E. E. Lourival Holanda Saraiva Neto",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Novo Aripuanã",
+      "uf": "AM",
+      "instituicao": "E. E. Professor Joaquim Canamary Gualberto",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Novo Aripuanã",
+      "uf": "AM",
+      "instituicao": "E. M. Augusto de Sá",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Novo Aripuanã",
+      "uf": "AM",
+      "instituicao": "E. M. João Weckner da Fonseca",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Novo Aripuanã",
+      "uf": "AM",
+      "instituicao": "E. M. Professor Raimundo Diego Fonseca de Souza",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Novo Aripuanã",
+      "uf": "AM",
+      "instituicao": "E. M. Theodoro da Fonseca",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Novo Aripuanã",
+      "uf": "AM",
+      "instituicao": "E.E. Julieta Lopes de Albuquerque",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Porto Velho",
+      "uf": "RO",
+      "instituicao": "E. E.  Cap. Claudio Manoel da Costa",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Porto Velho",
+      "uf": "RO",
+      "instituicao": "E. E. Carmela Dutra",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Porto Velho",
+      "uf": "RO",
+      "instituicao": "E. E. Colégio Tiradentes da Polícia Militar - CTPM I",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Porto Velho",
+      "uf": "RO",
+      "instituicao": "E. E. E. F. M. Dr. Jose Otino de Freitas",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Porto Velho",
+      "uf": "RO",
+      "instituicao": "E. E. E. F. M. Murilo Braga",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Porto Velho",
+      "uf": "RO",
+      "instituicao": "E. E. Professor Daniel Neri da Silva",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Porto Velho",
+      "uf": "RO",
+      "instituicao": "E. E. Professor João Bento da Costa",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Porto Velho",
+      "uf": "RO",
+      "instituicao": "E. E. Professora Flora Calheiros Cotrin",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Porto Velho",
+      "uf": "RO",
+      "instituicao": "E. E. Risoleta Neves",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Porto Velho",
+      "uf": "RO",
+      "instituicao": "E. E. São Luiz",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Porto Velho",
+      "uf": "RO",
+      "instituicao": "E. M. E. I. E. F. Maria Casaroto Abati",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Porto Velho",
+      "uf": "RO",
+      "instituicao": "EEEF Maria Carmosina Pinheiro",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Porto Velho",
+      "uf": "RO",
+      "instituicao": "EEEFM Prof Eduardo Lima e Silva",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Porto Velho",
+      "uf": "RO",
+      "instituicao": "EEEFM Prof Orlando Freire",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Porto Velho",
+      "uf": "RO",
+      "instituicao": "EEEM Major Guapindaia",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Porto Velho",
+      "uf": "RO",
+      "instituicao": "EMEF Joaquim Vicente Rondon",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Porto Velho",
+      "uf": "RO",
+      "instituicao": "EMEIEF Flamboyant",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Porto Velho",
+      "uf": "RO",
+      "instituicao": "EMEIEF Jesus de Nazare",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 07",
+      "localidade": "São Gabriel da Cach.",
+      "uf": "AM",
+      "instituicao": "Escola Eeti Pedro Fukuyei Yamaguchi Ferreira",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 07",
+      "localidade": "São Gabriel da Cach.",
+      "uf": "AM",
+      "instituicao": "Escola Estadual Dom João Marchesi",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 07",
+      "localidade": "São Gabriel da Cach.",
+      "uf": "AM",
+      "instituicao": "Escola Estadual indígena Irmã Inês Penha",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 07",
+      "localidade": "Sta Isabel do Rio Negro",
+      "uf": "AM",
+      "instituicao": "Escola Estadual Integral P. José Schneider",
+      "tipo": "Escola"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Manaus",
+      "uf": "AM",
+      "instituicao": "4º CTA",
+      "tipo": "Forças Armadas"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Manaus",
+      "uf": "AM",
+      "instituicao": "Marinha do Brasil",
+      "tipo": "Forças Armadas"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tabatinga",
+      "uf": "AM",
+      "instituicao": "Cmdo. Fronteira Solimões",
+      "tipo": "Forças Armadas"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tabatinga",
+      "uf": "AM",
+      "instituicao": "F.A Dest Cont Esp Aéreo de Tabatinga",
+      "tipo": "Forças Armadas"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tabatinga",
+      "uf": "AM",
+      "instituicao": "M.B Capitania Fluvial de Tabatinga",
+      "tipo": "Forças Armadas"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "E.B 16ª Bda de Inf de Selva",
+      "tipo": "Forças Armadas"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "F.A - Quartel: DTCEA-TF",
+      "tipo": "Forças Armadas"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "M.B - Agência Fluvial De Tefé",
+      "tipo": "Forças Armadas"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Belém",
+      "uf": "PA",
+      "instituicao": "Aeronáutica - DCEAB",
+      "tipo": "Forças Armadas"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Belém",
+      "uf": "PA",
+      "instituicao": "Exército - 41º Centro de Telemática",
+      "tipo": "Forças Armadas"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Belém",
+      "uf": "PA",
+      "instituicao": "Marinha - 4º Distrito Naval",
+      "tipo": "Forças Armadas"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Breves",
+      "uf": "PA",
+      "instituicao": "Tiro de Guerra – 8ª Região Militar",
+      "tipo": "Forças Armadas"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "E. B. - 7º Bat. de Inf. de Selva",
+      "tipo": "Forças Armadas"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "F.A. - Base Aérea de Boa Vista",
+      "tipo": "Forças Armadas"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Caracaraí",
+      "uf": "RR",
+      "instituicao": "M.B - Marinha - Agência Fluvial de Caracaraí",
+      "tipo": "Forças Armadas"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Vila de Moura",
+      "uf": "AM",
+      "instituicao": "F.A. - Base da Comara",
+      "tipo": "Forças Armadas"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Humaitá",
+      "uf": "AM",
+      "instituicao": "54º Batalhão de Infantaria de Selva",
+      "tipo": "Forças Armadas"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Humaitá",
+      "uf": "AM",
+      "instituicao": "Agência Fluvial de Humaitá",
+      "tipo": "Forças Armadas"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Manicoré",
+      "uf": "AM",
+      "instituicao": "Tiro de Guerra de Manicoré",
+      "tipo": "Forças Armadas"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Porto Velho",
+      "uf": "RO",
+      "instituicao": "BAPV - Base Aérea de Porto Velho",
+      "tipo": "Forças Armadas"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Porto Velho",
+      "uf": "RO",
+      "instituicao": "Capitania Fluvial de Porto Velho (Marinha do Brasil)",
+      "tipo": "Forças Armadas"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Porto Velho",
+      "uf": "RO",
+      "instituicao": "Comando da 17ª Brigada de Infantaria de Selva",
+      "tipo": "Forças Armadas"
+    },
+    {
+      "infovia": "Infovia 07",
+      "localidade": "São Gabriel da Cach.",
+      "uf": "AM",
+      "instituicao": "2ª Brigada de Infantaria de Selva",
+      "tipo": "Forças Armadas"
+    },
+    {
+      "infovia": "Infovia 07",
+      "localidade": "São Gabriel da Cach.",
+      "uf": "AM",
+      "instituicao": "Capitania Fluvial da Amazônia Ocidental (Marinha)",
+      "tipo": "Forças Armadas"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Curuá",
+      "uf": "PA",
+      "instituicao": "Unidade Integrada de Polícia de Curuá",
+      "tipo": "Outros"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Manaus",
+      "uf": "AM",
+      "instituicao": "PRODAM",
+      "tipo": "Outros"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Benjamim Constant",
+      "uf": "AM",
+      "instituicao": "Coordenação Técnica Local (CTL)",
+      "tipo": "Outros"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tabatinga",
+      "uf": "AM",
+      "instituicao": "Coordenação Regional Alto Solimões - FUNAI",
+      "tipo": "Outros"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "Coordenação Regional de Roraima",
+      "tipo": "Outros"
+    },
+    {
+      "infovia": "Infovia 07",
+      "localidade": "São Gabriel da Cach.",
+      "uf": "AM",
+      "instituicao": "Departamento Nacional de Infraestrutura de Transportes - DNIT",
+      "tipo": "Outros"
+    },
+    {
+      "infovia": "Infovia 07",
+      "localidade": "São Gabriel da Cach.",
+      "uf": "AM",
+      "instituicao": "Instituto Chico Mendes de Conservação da Biodiversidade - ICMBio",
+      "tipo": "Outros"
+    },
+    {
+      "infovia": "Infovia 07",
+      "localidade": "Sta Isabel do Rio Negro",
+      "uf": "AM",
+      "instituicao": "Departamento Nacional de Infraestrutura de Transportes - DNIT",
+      "tipo": "Outros"
+    },
+    {
+      "infovia": "Infovia 07",
+      "localidade": "Sta Isabel do Rio Negro",
+      "uf": "AM",
+      "instituicao": "Polícia Militar",
+      "tipo": "Outros"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Autazes",
+      "uf": "AM",
+      "instituicao": "Prefeitura Municipal de Autazes",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Curuá",
+      "uf": "PA",
+      "instituicao": "Prefeitura Municipal de Curuá",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "Prefeitura Municipal de Itacoatiara",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Juruti",
+      "uf": "PA",
+      "instituicao": "Prefeitura Municipal de Juruti",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Óbidos",
+      "uf": "PA",
+      "instituicao": "Prefeitura Municipal de Óbidos",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Oriximiná",
+      "uf": "PA",
+      "instituicao": "Prefeitura Municipal de Oriximiná",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "Prefeitura Municipal de Parintins-Setor de Terras",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Terra Santa",
+      "uf": "PA",
+      "instituicao": "Prefeitura Municipal de Terra Santa",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Urucurituba",
+      "uf": "AM",
+      "instituicao": "Prefeitura Municipal de Urucurituba",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Alvarães",
+      "uf": "AM",
+      "instituicao": "Praça Alvarães",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Amaturá",
+      "uf": "AM",
+      "instituicao": "Praça São Cristovão",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Anamã",
+      "uf": "AM",
+      "instituicao": "Praça Franciscana",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Anori",
+      "uf": "AM",
+      "instituicao": "Praça Capitão Pedro Silva",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Atalaia do Norte",
+      "uf": "AM",
+      "instituicao": "Praça de Alimentação",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Benjamim Constant",
+      "uf": "AM",
+      "instituicao": "Praça Espaço Cultural Raimundo Dimas",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Coari",
+      "uf": "AM",
+      "instituicao": "Praça do estudante",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Codajás",
+      "uf": "AM",
+      "instituicao": "Praça Dom Mário",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Fonte Boa",
+      "uf": "AM",
+      "instituicao": "Praça Nossa Senhora de Guadalupe",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Iranduba",
+      "uf": "AM",
+      "instituicao": "Praça dos Três Poderes",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Jutaí",
+      "uf": "AM",
+      "instituicao": "Praça Matriz de São José",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Manacapuru",
+      "uf": "AM",
+      "instituicao": "Praça 16 de Julho",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "São Paulo de O.",
+      "uf": "AM",
+      "instituicao": "Praça São Paulo",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "St. Antônio do Içá",
+      "uf": "AM",
+      "instituicao": "Praça da Igreja Santo Antônio",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tabatinga",
+      "uf": "AM",
+      "instituicao": "Praça de Igreja da Matriz",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "Praça Complexo Esportivo Praça",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tonantins",
+      "uf": "AM",
+      "instituicao": "Praça São Cristovão",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Uarini",
+      "uf": "AM",
+      "instituicao": "Praça da Orla Municipal",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Afuá",
+      "uf": "PA",
+      "instituicao": "Praça Municipal Albertino Baraúna",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Belém",
+      "uf": "PA",
+      "instituicao": "Praça da República",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Breves",
+      "uf": "PA",
+      "instituicao": "Coreto Praça do Operário",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Curralinho",
+      "uf": "PA",
+      "instituicao": "Praça da Bandeira",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Ponta de Pedras",
+      "uf": "PA",
+      "instituicao": "Praça da Matriz em Ponta de Pedras",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "Praça Germano Sampaio",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Caracaraí",
+      "uf": "RR",
+      "instituicao": "Praça Memorial Padre Calleri",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Novo Airão",
+      "uf": "AM",
+      "instituicao": "Praça Municipal Hugo Carlos Frederico",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Vila de Moura",
+      "uf": "AM",
+      "instituicao": "Praça de Moura",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Auxiliadora",
+      "uf": "AM",
+      "instituicao": "Praça de Auxiliadora",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Borba",
+      "uf": "AM",
+      "instituicao": "Praça da Basílica de Santo Antônio de Borba",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Calama",
+      "uf": "RO",
+      "instituicao": "Praça",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Humaitá",
+      "uf": "AM",
+      "instituicao": "Praça da Matriz - Igreja Nossa Sraª Imaculada Conceição",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Manicoré",
+      "uf": "AM",
+      "instituicao": "Praça da Bandeira",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Nova Olinda do Norte",
+      "uf": "AM",
+      "instituicao": "Praça do Centro",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Novo Aripuanã",
+      "uf": "AM",
+      "instituicao": "Praça Pública Municipal de Novo Aipuanã",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Porto Velho",
+      "uf": "RO",
+      "instituicao": "Praça Getúlio Vargas",
+      "tipo": "Prefeitura"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Alenquer",
+      "uf": "PA",
+      "instituicao": "Cartório Eleitoral da 21ª ZE",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Alenquer",
+      "uf": "PA",
+      "instituicao": "Fórum da Comarca de Alenquer - Tribunal",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Almeirim",
+      "uf": "PA",
+      "instituicao": "Cartório Eleitoral 55ª Almerim",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Almeirim",
+      "uf": "PA",
+      "instituicao": "FÓRUM DES. IGNÁCIO C. GUILHON D'OLIVEIRA",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Macapá",
+      "uf": "AP",
+      "instituicao": "02ª ZE",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Macapá",
+      "uf": "AP",
+      "instituicao": "10ª ZE",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Macapá",
+      "uf": "AP",
+      "instituicao": "SEÇÃO JUDICIÁRIA DO ESTADO DO AMAPÁ",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Macapá",
+      "uf": "AP",
+      "instituicao": "TRE-AP",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Macapá",
+      "uf": "AP",
+      "instituicao": "Tribunal de Justiça do Estado do Amapá",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Monte Alegre",
+      "uf": "PA",
+      "instituicao": "19ª ZE",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Monte Alegre",
+      "uf": "PA",
+      "instituicao": "Fórum Municipal Dr Tertuliano Lins",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Santarém",
+      "uf": "PA",
+      "instituicao": "20ªZE, 83ªZE e 104ª ZE",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Santarém",
+      "uf": "PA",
+      "instituicao": "FÓRUM DES. ERNESTO ADOLFO DE V. CHAVES",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Santarém",
+      "uf": "PA",
+      "instituicao": "JUIZADO ESPECIAL DE RELAÇÃO DE CONSUMO",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Santarém",
+      "uf": "PA",
+      "instituicao": "SUBSEÇÃO JUDICIÁRIA DE SANTARÉM",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Santarém",
+      "uf": "PA",
+      "instituicao": "VARA DO JUIZADO ESPECIAL CIVEL",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Autazes",
+      "uf": "AM",
+      "instituicao": "Fórum Dr. Aristófanes Bezerra De Castro",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "Fórum de Itacoatiara",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Juruti",
+      "uf": "PA",
+      "instituicao": "Fórum de Justiça da Comarca de Juruti",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Óbidos",
+      "uf": "PA",
+      "instituicao": "Fórum da Justiça Cível de Óbidos",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Oriximiná",
+      "uf": "PA",
+      "instituicao": "Fórum de Justica de Oriximiná",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "Fórum de Justiça da Comarca de Parintins",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Terra Santa",
+      "uf": "PA",
+      "instituicao": "Fórum de Justiça da Comarca de Terra Santa",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Urucurituba",
+      "uf": "AM",
+      "instituicao": "Fórum da Comarca de Urucurituba",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Amaturá",
+      "uf": "AM",
+      "instituicao": "Tribunal de Justiça - Amaturá",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Anamã",
+      "uf": "AM",
+      "instituicao": "Fórum Des. Benjamin Magalhães Brandão",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Anori",
+      "uf": "AM",
+      "instituicao": "Fórum de Justiça Dra. Edmée Pereira Caminha",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Atalaia do Norte",
+      "uf": "AM",
+      "instituicao": "Tribunal de Justiça - Atalaia Norte",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Benjamim Constant",
+      "uf": "AM",
+      "instituicao": "Tribunal de Justiça - B. Constant",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Coari",
+      "uf": "AM",
+      "instituicao": "Fórum Desembargador Cândido Honório Soares Ferreira",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Codajás",
+      "uf": "AM",
+      "instituicao": "Fórum Desembargador Joaquim Paulino Gomes",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Fonte Boa",
+      "uf": "AM",
+      "instituicao": "Tribunal de Justiça - Comarca Fonte Boa",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Iranduba",
+      "uf": "AM",
+      "instituicao": "Fórum Dr. Luiz Augusto Santa Cruz Machado",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Jutaí",
+      "uf": "AM",
+      "instituicao": "Tribunal de Justiça - Jutaí",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Manacapuru",
+      "uf": "AM",
+      "instituicao": "Fórum de Justiça Doutor Giovanni Figliuolo",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "São Paulo de O.",
+      "uf": "AM",
+      "instituicao": "Tribunal de Justiça - SP Olivença",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "St. Antônio do Içá",
+      "uf": "AM",
+      "instituicao": "Tribunal de Justiça - Santo Antônio do Iça",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tabatinga",
+      "uf": "AM",
+      "instituicao": "Tribunal de Justiça - Tabatinga",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "Tribunal de Justiça - Comarca de Tefé",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tonantins",
+      "uf": "AM",
+      "instituicao": "Tribunal de Justiça - Santo Antônio do Iça",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Uarini",
+      "uf": "AM",
+      "instituicao": "Tribunal de Justiça - Uarini",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Afuá",
+      "uf": "PA",
+      "instituicao": "Tribunal de Justiça",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Belém",
+      "uf": "PA",
+      "instituicao": "Tribunal de Justiça do Estado do Pará",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Breves",
+      "uf": "PA",
+      "instituicao": "Fórum Dr. Pedro dos Santos Torres",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Curralinho",
+      "uf": "PA",
+      "instituicao": "Fórum da Comarca de Curralinho",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Ponta de Pedras",
+      "uf": "PA",
+      "instituicao": "Tribunal de Justiça",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "Tribunal de Justiça",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Caracaraí",
+      "uf": "RR",
+      "instituicao": "Tribunal de Justiça - Caracarai",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Novo Airão",
+      "uf": "AM",
+      "instituicao": "Fórum Desembargador Aristóteles Lima Thury",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Borba",
+      "uf": "AM",
+      "instituicao": "Fórum Dr. Fausto Ferreira Reis",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Humaitá",
+      "uf": "AM",
+      "instituicao": "Fórum de Justiça de Humaitá",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Manicoré",
+      "uf": "AM",
+      "instituicao": "Primeira Vara da Comarca de Manicoré - Fórum",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Nova Olinda do Norte",
+      "uf": "AM",
+      "instituicao": "Vara Única da Comarca de Nova Olinda do Norte",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Novo Aripuanã",
+      "uf": "AM",
+      "instituicao": "Fórum de Novo Aripuanã",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Porto Velho",
+      "uf": "RO",
+      "instituicao": "Tribunal de Justiça do Estado de Rondônia",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 07",
+      "localidade": "São Gabriel da Cach.",
+      "uf": "AM",
+      "instituicao": "Fórum de Justiça Desembargador Artur Gabriel Gonçalves",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 07",
+      "localidade": "São Gabriel da Cach.",
+      "uf": "AM",
+      "instituicao": "Ministério Público - AM",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 07",
+      "localidade": "São Gabriel da Cach.",
+      "uf": "AM",
+      "instituicao": "Tribunal Regional Eleitoral",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 07",
+      "localidade": "Sta Isabel do Rio Negro",
+      "uf": "AM",
+      "instituicao": "Ministério Público - AM",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 07",
+      "localidade": "Sta Isabel do Rio Negro",
+      "uf": "AM",
+      "instituicao": "Tribunal de Justiça",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 07",
+      "localidade": "Sta Isabel do Rio Negro",
+      "uf": "AM",
+      "instituicao": "Tribunal Regional Eleitoral",
+      "tipo": "Unidade de Justiça"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Autazes",
+      "uf": "AM",
+      "instituicao": "Hospital Deodato de Miranda Leão",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Curuá",
+      "uf": "PA",
+      "instituicao": "Centro de Saúde Dr. Almir Gabriel",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "Hospital Regional José Mendes",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Juruti",
+      "uf": "PA",
+      "instituicao": "Hospital Municipal de Juruti",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Juruti",
+      "uf": "PA",
+      "instituicao": "Hospital Nove de Abril na Providência de Deus",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Óbidos",
+      "uf": "PA",
+      "instituicao": "Hospital Municipal José Benito Priante",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Óbidos",
+      "uf": "PA",
+      "instituicao": "Hospital Santa Casa de Misericórdia de Óbidos",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Oriximiná",
+      "uf": "PA",
+      "instituicao": "HMSDS - Hospital Maternidade São Domingos Sávio",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Oriximiná",
+      "uf": "PA",
+      "instituicao": "Hospital Municipal de Oriximiná",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "Hospital Dr. Jofre Matos Cohen",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Terra Santa",
+      "uf": "PA",
+      "instituicao": "Hospital Municipal Frei Elizeu Eismann",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Urucurituba",
+      "uf": "AM",
+      "instituicao": "Hospital Silvério Tundis",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Alvarães",
+      "uf": "AM",
+      "instituicao": "Unidade Hospitalar de Alvarães",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Amaturá",
+      "uf": "AM",
+      "instituicao": "Hospital Frei Rob. de San Severino",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Anamã",
+      "uf": "AM",
+      "instituicao": "Unidade Mista de Anamã Francisco Sales de Moura",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Anori",
+      "uf": "AM",
+      "instituicao": "Hospital Darlinda Ribeiro",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Atalaia do Norte",
+      "uf": "AM",
+      "instituicao": "Unidade Hospitalar de Atalaia do Norte",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Belém dos Solimões",
+      "uf": "AM",
+      "instituicao": "Polo Base Belém do Solimões - Saúde",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Belém dos Solimões",
+      "uf": "AM",
+      "instituicao": "Unidade de Atenção de Saúde Indigena",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Benjamim Constant",
+      "uf": "AM",
+      "instituicao": "Hospital Geral de Benjamin Constant",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Coari",
+      "uf": "AM",
+      "instituicao": "Hospital Regional de Coari",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Codajás",
+      "uf": "AM",
+      "instituicao": "Hospital João da Silva Bastos",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Fonte Boa",
+      "uf": "AM",
+      "instituicao": "Hospital Regional de Fonte Boa",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Iranduba",
+      "uf": "AM",
+      "instituicao": "Hospital Regional Hilda Freire",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Jutaí",
+      "uf": "AM",
+      "instituicao": "Casa de Apoio à Saúde Indígena (CASAI)",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Jutaí",
+      "uf": "AM",
+      "instituicao": "Unidade Hospitalar de Jutaí",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Manacapuru",
+      "uf": "AM",
+      "instituicao": "Hospital Geral e Maternidade Manacapuru",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "São Paulo de O.",
+      "uf": "AM",
+      "instituicao": "Hospital Robert Paul Baksmann",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "St. Antônio do Içá",
+      "uf": "AM",
+      "instituicao": "Unidade Hospitalar de Santo Antônio do Iça",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tabatinga",
+      "uf": "AM",
+      "instituicao": "Unidade Hospitalar de Tabatinga",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "(DSEI) Médio Rio Solimões e Afluentes - FUNAI",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "Casa de Saúde Indígena (CASAI)",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "Hospital Regional de Tefé",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tonantins",
+      "uf": "AM",
+      "instituicao": "Hospital Frei Francisco",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Uarini",
+      "uf": "AM",
+      "instituicao": "Casa de Apoio à Saúde Indígena (CASAI)",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Uarini",
+      "uf": "AM",
+      "instituicao": "Unidade Hospitalar de Uarini",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Afuá",
+      "uf": "PA",
+      "instituicao": "UBS Capim Marinho",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Belém",
+      "uf": "PA",
+      "instituicao": "Santa Casa de Misericórdia",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Breves",
+      "uf": "PA",
+      "instituicao": "Hospital Municipal Mª Santana Rocha Franco",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Curralinho",
+      "uf": "PA",
+      "instituicao": "Hospital Municipal de Curralinho",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Ponta de Pedras",
+      "uf": "PA",
+      "instituicao": "Unidade Mista de Saúde",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "Distrito Sanitário Especial Indígena (DSEI) - Yanomami",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "Hospital Geral de Roraima",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Caracaraí",
+      "uf": "RR",
+      "instituicao": "Hospital de Caracarai - Irmã Aquilina",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Novo Airão",
+      "uf": "AM",
+      "instituicao": "Hospital Geral de Novo Airão",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Sta. Maria do Boiaçu",
+      "uf": "RR",
+      "instituicao": "Hospital Estadual de Sta Mª do Boiaçu",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Vila de Moura",
+      "uf": "AM",
+      "instituicao": "UBS Raimunda Mondego Sampaio",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Auxiliadora",
+      "uf": "AM",
+      "instituicao": "USF Dr. Igor Pereira Medeiros",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Borba",
+      "uf": "AM",
+      "instituicao": "Hospital Vó Mundoca",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Calama",
+      "uf": "RO",
+      "instituicao": "Posto de Saúde Benjamim Silva",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Humaitá",
+      "uf": "AM",
+      "instituicao": "Hospital Regional de Humaitá",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Manicoré",
+      "uf": "AM",
+      "instituicao": "Hospital Regional Hamilton Cidade",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Nova Olinda do Norte",
+      "uf": "AM",
+      "instituicao": "Hospital Dr. Galo Manoel",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Novo Aripuanã",
+      "uf": "AM",
+      "instituicao": "Unidade Hospitalar de Novo Aripuanã",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Porto Velho",
+      "uf": "RO",
+      "instituicao": "Hospital de Base Dr. Ary Pinheiro",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 07",
+      "localidade": "São Gabriel da Cach.",
+      "uf": "AM",
+      "instituicao": "Distrito Sanitário Especial Indígena - Alto Rio Negro - DSEI ARN",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 07",
+      "localidade": "São Gabriel da Cach.",
+      "uf": "AM",
+      "instituicao": "Hospital de Guarnição de São Gabriel da Cachoeira",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 07",
+      "localidade": "São Gabriel da Cach.",
+      "uf": "AM",
+      "instituicao": "Secretaria Especial de Saúde Indígena - SESAI",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 07",
+      "localidade": "Sta Isabel do Rio Negro",
+      "uf": "AM",
+      "instituicao": "Hospital Irmã Edwiges Maria Sikorka",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 07",
+      "localidade": "Sta Isabel do Rio Negro",
+      "uf": "AM",
+      "instituicao": "Secretaria Especial de Saúde Indígena - SESAI",
+      "tipo": "Unidade de Saúde"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Alenquer",
+      "uf": "PA",
+      "instituicao": "UFOPA Campus Alenquer",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Macapá",
+      "uf": "AP",
+      "instituicao": "IFAP Santana",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Macapá",
+      "uf": "AP",
+      "instituicao": "UNIFAP Campus Santana",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Monte Alegre",
+      "uf": "PA",
+      "instituicao": "EETEPA",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Monte Alegre",
+      "uf": "PA",
+      "instituicao": "UFOPA Campus Monte Alegre",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 00",
+      "localidade": "Santarém",
+      "uf": "PA",
+      "instituicao": "UFOPA Campus Sede (Tapajós)",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "IFAM - Instituto Federal de Educação, Ciência e Tecn. do Am.",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "UEA - Universidade do Estado do Amazonas",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "UFAM - Universidade Federal do Amazonas - Campus I",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Itacoatiara",
+      "uf": "AM",
+      "instituicao": "UFAM - Universidade Federal do Amazonas - Campus II - ICET",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Juruti",
+      "uf": "PA",
+      "instituicao": "UFOPA - Universidade Federal do Oeste do Pará",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Manaus",
+      "uf": "AM",
+      "instituicao": "RNP",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Óbidos",
+      "uf": "PA",
+      "instituicao": "IFPA - Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Óbidos",
+      "uf": "PA",
+      "instituicao": "UFOPA - Universidade Federal do Oeste do Pará",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Oriximiná",
+      "uf": "PA",
+      "instituicao": "UFOPA - Universidade Federal do Oeste do Pará",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "IFAM - Instituto Federal de Educação, Ciência e Tecn. do Am.",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "UEA - Universidade do Estado do Amazonas",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 01",
+      "localidade": "Parintins",
+      "uf": "AM",
+      "instituicao": "UFAM - Unoversidade Federal do Amazonas",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Benjamim Constant",
+      "uf": "AM",
+      "instituicao": "UFAM - Campus Benjamin Constant",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Coari",
+      "uf": "AM",
+      "instituicao": "Instituto Federal do Amazonas",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Coari",
+      "uf": "AM",
+      "instituicao": "Universidade do Estado do Amazonas",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Coari",
+      "uf": "AM",
+      "instituicao": "Universidade Federal do Amazonas",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Iranduba",
+      "uf": "AM",
+      "instituicao": "Instituto Federal do Amazonas",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Jutaí",
+      "uf": "AM",
+      "instituicao": "UEA - Campus Jutaí",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Manacapuru",
+      "uf": "AM",
+      "instituicao": "Instituto Federal do Amazonas",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Manacapuru",
+      "uf": "AM",
+      "instituicao": "Universidade do Estado do Amazonas",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "St. Antônio do Içá",
+      "uf": "AM",
+      "instituicao": "UEA - Campus Santo Antônio do Iça",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tabatinga",
+      "uf": "AM",
+      "instituicao": "IFAM Campos Tabatinga",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tabatinga",
+      "uf": "AM",
+      "instituicao": "UEA - Campus Tabatinga",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 02",
+      "localidade": "Tefé",
+      "uf": "AM",
+      "instituicao": "UEA - Campus Tefé",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Belém",
+      "uf": "PA",
+      "instituicao": "ICA - Campos Belém",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Belém",
+      "uf": "PA",
+      "instituicao": "Instituto Federal do Pará",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Belém",
+      "uf": "PA",
+      "instituicao": "UFPA - Campus Belém",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Breves",
+      "uf": "PA",
+      "instituicao": "IFPA - Campus Breves",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 03",
+      "localidade": "Breves",
+      "uf": "PA",
+      "instituicao": "UFPA - Campus Breves",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 04",
+      "localidade": "Boa Vista",
+      "uf": "RR",
+      "instituicao": "Instituto Federal de Roraima",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Humaitá",
+      "uf": "AM",
+      "instituicao": "Instituto Federal do Amazonas",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Humaitá",
+      "uf": "AM",
+      "instituicao": "Universidade Estadual do Amazonas",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Humaitá",
+      "uf": "AM",
+      "instituicao": "Universidade Federal do Amazonas",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Manicoré",
+      "uf": "AM",
+      "instituicao": "Universidade Estadual do Amazonas",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Nova Olinda do Norte",
+      "uf": "AM",
+      "instituicao": "Universidade Estadual do Amazonas",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Novo Aripuanã",
+      "uf": "AM",
+      "instituicao": "Universidade Estadual do Amazonas",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 05",
+      "localidade": "Porto Velho",
+      "uf": "RO",
+      "instituicao": "Instituto Federal de Rondônia",
+      "tipo": "Universidade / Inst. Federal"
+    },
+    {
+      "infovia": "Infovia 07",
+      "localidade": "São Gabriel da Cach.",
+      "uf": "AM",
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Am.",
+      "tipo": "Universidade / Inst. Federal"
+    }
+  ]
+}
