@@ -21,6 +21,8 @@ jobs:
           python-version: '3.12'
       - name: Extrair e validar
         run: python scripts/extrair_infovias.py
+      - name: Cards do BI por infovia
+        run: python scripts/extrair_cards.py
       - name: Publicar somente apos validacao
         run: |
           git config user.name "github-actions[bot]"
