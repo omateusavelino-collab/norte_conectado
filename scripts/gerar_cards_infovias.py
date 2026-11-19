@@ -34,6 +34,7 @@ COL_ID = 'Infovias - ID Programa.ID da Infovia'
 COL_UFS = 'Infovias - Municipios-UFs.Ufs Atendidas'
 COL_MUN = 'Infovias - Municipios-UFs.Municipios Atendidos'
 COL_KM = 'Sum(Infovias - Backhaul.Backhaul - Dist.)'
+COL_CONS = 'Infovias - Municipios-UFs-Consorciados.Consorciados_1'
 OBRIGATORIOS = ['implantacao', 'patrimonializacao', 'formacao_con', 'populacao',
                 'pares', 'km', 'ufs', 'localidades']
 
@@ -158,6 +159,11 @@ def gerar(configs, output):
                 mun = _lista(linha.get(COL_MUN))
                 if mun:
                     gravar(ivt, 'localidades', len(mun), config['id'])
+                cons = linha.get(COL_CONS)
+                if isinstance(cons, str) and cons.strip():
+                    nomes = [] if cons.strip().lower() in ('não há', 'nao ha') else _lista(cons)
+                    gravar(ivt, 'consorciados', len(nomes), config['id'])
+                    gravar(ivt, 'consorciados_lista', nomes, config['id'])
             continue
         if iv is None or len(campos) != 1:
             continue
@@ -188,7 +194,8 @@ def gerar(configs, output):
                 erros.append(f'Infovia {iv}: {campo} invalido ({v}).')
         # Sem consulta individual por infovia no BI capturado: nao estimar.
         c.setdefault('pontos', None)
-        c.setdefault('consorciados', None)
+        if c.get('consorciados') is None:
+            erros.append(f'Infovia {iv}: sem valor para consorciados.')
         c.setdefault('subprograma', None)
         c.setdefault('atualizacao', None)
     if erros:
