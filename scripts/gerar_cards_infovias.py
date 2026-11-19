@@ -228,6 +228,7 @@ def gerar(configs, output):
         'extraido_em': agora.strftime('%d/%m/%Y'),
         **{iv: cards[iv] for iv in INFOVIAS},
         'programa': programa,
+        'rotas': gerar_rotas(output),
         'mapas': gerar_mapas(BASE.parent / 'data' / 'pontos_acesso.json'),
         '_origem': origem,
     }
@@ -292,6 +293,49 @@ def gerar_mapas(caminho_pontos):
     return {'operacao': INFOVIAS_OPERACAO, 'infovias': saida,
             'indicador_bi': dados.get('total_bi'), 'linhas_tabela': dados.get('linhas'),
             'aviso': dados.get('aviso_validacao')}
+
+
+# ---------------------------------------------------------------------------
+# Tracado das infovias (mapa do topo de cada pagina)
+# Fonte: consultas "INFOVIAS - Todas" (trecho, sequencia, longitude, latitude, Bolha).
+# Pontos sem coordenada sao ignorados. Bolha = 100 marca os nos (localidades/caixas).
+COL_TRECHO = 'INFOVIAS - Todas.trecho-errado'
+COL_SEQ = 'INFOVIAS - Todas.seq_geo_ls_nova'
+COL_IVR = 'INFOVIAS - Todas.ID da Infovia'
+COL_LON = 'INFOVIAS - Todas.long'
+COL_LAT = 'INFOVIAS - Todas.lat'
+COL_BOLHA = 'Sum(INFOVIAS - Todas.Bolha)'
+
+
+def gerar_rotas(output):
+    pontos = {}
+    for item in output:
+        for linha in item.get('linhas') or []:
+            if COL_TRECHO not in linha or COL_LON not in linha:
+                continue
+            iv = _infovia(linha.get(COL_IVR))
+            lon, lat, seq = _num(linha.get(COL_LON)), _num(linha.get(COL_LAT)), _num(linha.get(COL_SEQ))
+            if iv is None or lon is None or lat is None or seq is None:
+                continue
+            if not (-80 < lon < -40 and -20 < lat < 10):
+                continue
+            trecho = str(linha.get(COL_TRECHO) or '').strip()
+            chave = (iv, trecho, int(seq))
+            pontos[chave] = (round(lon, 4), round(lat, 4), (_num(linha.get(COL_BOLHA)) or 0) > 0)
+    rotas = {}
+    for (iv, trecho, seq), (lon, lat, no) in sorted(pontos.items()):
+        r = rotas.setdefault(iv, {'trechos': {}, 'nos': []})
+        r['trechos'].setdefault(trecho, []).append([lon, lat])
+        if no and [lon, lat] not in r['nos']:
+            r['nos'].append([lon, lat])
+    saida = {}
+    for iv in INFOVIAS:
+        if iv not in rotas:
+            continue
+        trechos = [{'nome': n, 'pts': p} for n, p in rotas[iv]['trechos'].items() if len(p) >= 2]
+        if trechos:
+            saida[iv] = {'trechos': trechos, 'nos': rotas[iv]['nos']}
+    return saida
 
 
 def gravar_arquivo(cards, destino):
