@@ -1,0 +1,31 @@
+name: Atualizar Infovias
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 10 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: atualizar-infovias
+  cancel-in-progress: false
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Baixar repositorio
+        uses: actions/checkout@v4
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Extrair e validar
+        run: python scripts/extrair_infovias.py
+      - name: Publicar somente apos validacao
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/*.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Atualizar dados das infovias"
+          git push
