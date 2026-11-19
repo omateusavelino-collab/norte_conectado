@@ -1,0 +1,220 @@
+{
+  "url": "https://wabi-brazil-south-b-primary-api.analysis.windows.net/public/reports/querydata?synchronous=true",
+  "headers": {
+    "Content-Type": "application/json;charset=UTF-8",
+    "Origin": "https://app.powerbi.com",
+    "Referer": "https://app.powerbi.com/",
+    "X-PowerBI-ResourceKey": "b2fb008b-ce8f-47fe-bab6-46e175ab4d40"
+  },
+  "table": {
+    "version": "1.0.0",
+    "queries": [
+      {
+        "Query": {
+          "Commands": [
+            {
+              "SemanticQueryDataShapeCommand": {
+                "Query": {
+                  "Version": 2,
+                  "From": [
+                    {
+                      "Name": "i",
+                      "Entity": "INFOVIAS NC - Pontos de acesso",
+                      "Type": 0
+                    }
+                  ],
+                  "Select": [
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "i"
+                          }
+                        },
+                        "Property": "ID da Infovia"
+                      },
+                      "Name": "INFOVIAS - Pontos de acesso.ID da Infovia",
+                      "NativeReferenceName": "Infovia"
+                    },
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "i"
+                          }
+                        },
+                        "Property": "LOCALIDADE"
+                      },
+                      "Name": "INFOVIAS - Pontos de acesso.LOCALIDADE",
+                      "NativeReferenceName": "Localidade"
+                    },
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "i"
+                          }
+                        },
+                        "Property": "UF"
+                      },
+                      "Name": "INFOVIAS - Pontos de acesso.UF",
+                      "NativeReferenceName": "UF"
+                    },
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "i"
+                          }
+                        },
+                        "Property": "INSTITUIÇÃO"
+                      },
+                      "Name": "INFOVIAS - Pontos de acesso.INSTITUIÇÃO",
+                      "NativeReferenceName": "Instituição"
+                    },
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "i"
+                          }
+                        },
+                        "Property": "TIPO"
+                      },
+                      "Name": "INFOVIAS - Pontos de acesso.TIPO",
+                      "NativeReferenceName": "Tipo de Instituições"
+                    }
+                  ],
+                  "OrderBy": [
+                    {
+                      "Direction": 1,
+                      "Expression": {
+                        "Column": {
+                          "Expression": {
+                            "SourceRef": {
+                              "Source": "i"
+                            }
+                          },
+                          "Property": "TIPO"
+                        }
+                      }
+                    }
+                  ]
+                },
+                "Binding": {
+                  "Primary": {
+                    "Groupings": [
+                      {
+                        "Projections": [
+                          0,
+                          1,
+                          2,
+                          3,
+                          4
+                        ],
+                        "Subtotal": 1
+                      }
+                    ]
+                  },
+                  "DataReduction": {
+                    "DataVolume": 3,
+                    "Primary": {
+                      "Window": {
+                        "Count": 500
+                      }
+                    }
+                  },
+                  "Version": 1
+                },
+                "ExecutionMetricsKind": 1
+              }
+            }
+          ]
+        },
+        "CacheKey": "{\"Commands\":[{\"SemanticQueryDataShapeCommand\":{\"Query\":{\"Version\":2,\"From\":[{\"Name\":\"i\",\"Entity\":\"INFOVIAS NC - Pontos de acesso\",\"Type\":0}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"i\"}},\"Property\":\"ID da Infovia\"},\"Name\":\"INFOVIAS - Pontos de acesso.ID da Infovia\",\"NativeReferenceName\":\"Infovia\"},{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"i\"}},\"Property\":\"LOCALIDADE\"},\"Name\":\"INFOVIAS - Pontos de acesso.LOCALIDADE\",\"NativeReferenceName\":\"Localidade\"},{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"i\"}},\"Property\":\"UF\"},\"Name\":\"INFOVIAS - Pontos de acesso.UF\",\"NativeReferenceName\":\"UF\"},{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"i\"}},\"Property\":\"INSTITUIÇÃO\"},\"Name\":\"INFOVIAS - Pontos de acesso.INSTITUIÇÃO\",\"NativeReferenceName\":\"Instituição\"},{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"i\"}},\"Property\":\"TIPO\"},\"Name\":\"INFOVIAS - Pontos de acesso.TIPO\",\"NativeReferenceName\":\"Tipo de Instituições\"}],\"OrderBy\":[{\"Direction\":1,\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"i\"}},\"Property\":\"TIPO\"}}}]},\"Binding\":{\"Primary\":{\"Groupings\":[{\"Projections\":[0,1,2,3,4],\"Subtotal\":1}]},\"DataReduction\":{\"DataVolume\":3,\"Primary\":{\"Window\":{\"Count\":500}}},\"Version\":1},\"ExecutionMetricsKind\":1}}]}",
+        "QueryId": "",
+        "ApplicationContext": {
+          "DatasetId": "8ef2569f-6506-4dc0-a46a-2b99ed7214ea",
+          "Sources": [
+            {
+              "ReportId": "cfa374a7-05b3-4116-a6df-8a294c0d6d8a",
+              "VisualId": "6972daa5d8adfda324de"
+            }
+          ]
+        }
+      }
+    ],
+    "cancelQueries": [],
+    "modelId": 7298992
+  },
+  "total": {
+    "version": "1.0.0",
+    "queries": [
+      {
+        "Query": {
+          "Commands": [
+            {
+              "SemanticQueryDataShapeCommand": {
+                "Query": {
+                  "Version": 2,
+                  "From": [
+                    {
+                      "Name": "i",
+                      "Entity": "INFOVIAS NC - Pontos de acesso",
+                      "Type": 0
+                    }
+                  ],
+                  "Select": [
+                    {
+                      "Aggregation": {
+                        "Expression": {
+                          "Column": {
+                            "Expression": {
+                              "SourceRef": {
+                                "Source": "i"
+                              }
+                            },
+                            "Property": "INSTITUIÇÃO"
+                          }
+                        },
+                        "Function": 5
+                      },
+                      "Name": "Min(INFOVIAS - Pontos de acesso.INSTITUIÇÃO)",
+                      "NativeReferenceName": "Contagem de INSTITUIÇÃO"
+                    }
+                  ]
+                },
+                "Binding": {
+                  "Primary": {
+                    "Groupings": [
+                      {
+                        "Projections": [
+                          0
+                        ]
+                      }
+                    ]
+                  },
+                  "Version": 1
+                },
+                "ExecutionMetricsKind": 1
+              }
+            }
+          ]
+        },
+        "CacheKey": "{\"Commands\":[{\"SemanticQueryDataShapeCommand\":{\"Query\":{\"Version\":2,\"From\":[{\"Name\":\"i\",\"Entity\":\"INFOVIAS NC - Pontos de acesso\",\"Type\":0}],\"Select\":[{\"Aggregation\":{\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"i\"}},\"Property\":\"INSTITUIÇÃO\"}},\"Function\":5},\"Name\":\"Min(INFOVIAS - Pontos de acesso.INSTITUIÇÃO)\",\"NativeReferenceName\":\"Contagem de INSTITUIÇÃO\"}]},\"Binding\":{\"Primary\":{\"Groupings\":[{\"Projections\":[0]}]},\"Version\":1},\"ExecutionMetricsKind\":1}}]}",
+        "QueryId": "",
+        "ApplicationContext": {
+          "DatasetId": "8ef2569f-6506-4dc0-a46a-2b99ed7214ea",
+          "Sources": [
+            {
+              "ReportId": "cfa374a7-05b3-4116-a6df-8a294c0d6d8a",
+              "VisualId": "858ca6df5ea80c73d6c9"
+            }
+          ]
+        }
+      }
+    ],
+    "cancelQueries": [],
+    "modelId": 7298992
+  }
+}
