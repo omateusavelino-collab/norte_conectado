@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-19T15:13:01-03:00",
+  "gerado_em": "2026-11-19T16:25:25-03:00",
   "extraido_em": "19/11/2026",
   "00": {
     "km": "769,41",
@@ -190,6 +190,3502 @@
     "pontos": null,
     "subprograma": null,
     "atualizacao": null
+  },
+  "programa": {
+    "km_previsto": "13.352,18",
+    "km_implantado": "6.775,18",
+    "localidades_previstas": 70,
+    "localidades_operacao": 47,
+    "infovias_concluidas": [
+      "00",
+      "01",
+      "02",
+      "03",
+      "04",
+      "07"
+    ]
+  },
+  "mapas": {
+    "operacao": [
+      "00",
+      "01",
+      "02",
+      "03",
+      "04"
+    ],
+    "infovias": {
+      "00": {
+        "total": 72,
+        "municipios": {
+          "alenquer|PA": {
+            "nome": "Alenquer",
+            "uf": "PA",
+            "inst": 13,
+            "lista": [
+              [
+                "Cartório Eleitoral da 21ª ZE",
+                "Unidade de Justiça"
+              ],
+              [
+                "E M E F Jesus Conosco",
+                "Escola"
+              ],
+              [
+                "Ecola Monteiro Lobato",
+                "Escola"
+              ],
+              [
+                "EEEF Doutor José Jorge Hage",
+                "Escola"
+              ],
+              [
+                "Eeem Amadeu Burlamaqui Simoes",
+                "Escola"
+              ],
+              [
+                "EEEM Prefessora Beatriz do Vale",
+                "Escola"
+              ],
+              [
+                "EMEF Nôr Michel Gantuss",
+                "Escola"
+              ],
+              [
+                "EMEF. Nova Esperança",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Fulgêncio Simões",
+                "Escola"
+              ],
+              [
+                "Escola Municipal Luiza Michel",
+                "Escola"
+              ],
+              [
+                "Escola Professora Veridiana Corrêa",
+                "Escola"
+              ],
+              [
+                "Fórum da Comarca de Alenquer - Tribunal",
+                "Unidade de Justiça"
+              ],
+              [
+                "UFOPA Campus Alenquer",
+                "Universidade / Inst. Federal"
+              ]
+            ]
+          },
+          "almeirim|PA": {
+            "nome": "Almeirim",
+            "uf": "PA",
+            "inst": 12,
+            "lista": [
+              [
+                "Cartório Eleitoral 55ª Almerim",
+                "Unidade de Justiça"
+              ],
+              [
+                "Conselho Escolar – SEMED Depart. Programas Educacionais",
+                "Escola"
+              ],
+              [
+                "EEEM FREI CONSTANCIO",
+                "Escola"
+              ],
+              [
+                "EMEF FREI CONSTANCIO",
+                "Escola"
+              ],
+              [
+                "EMEF Professor Raimundo",
+                "Escola"
+              ],
+              [
+                "EMEF Professora Eley Duarte Elleres",
+                "Escola"
+              ],
+              [
+                "EMEF Professora Flavia Smith",
+                "Escola"
+              ],
+              [
+                "EMEF Professora Ierece da Silva Santos",
+                "Escola"
+              ],
+              [
+                "EMEI  Orlandina de Nazareth Pinto da Rocha",
+                "Escola"
+              ],
+              [
+                "ERCEF Nossa Senhora Conceição",
+                "Escola"
+              ],
+              [
+                "Escola Municipal de Ensino F. Dr. Pedro Batista de Souza",
+                "Escola"
+              ],
+              [
+                "FÓRUM DES. IGNÁCIO C. GUILHON D'OLIVEIRA",
+                "Unidade de Justiça"
+              ]
+            ]
+          },
+          "macapa|AP": {
+            "nome": "Macapá",
+            "uf": "AP",
+            "inst": 17,
+            "lista": [
+              [
+                "02ª ZE",
+                "Unidade de Justiça"
+              ],
+              [
+                "10ª ZE",
+                "Unidade de Justiça"
+              ],
+              [
+                "E.E. Antônio Cordeiro Pontes",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Barão do Rio Branco",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Cecília Pinto",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Dom Aristides Pirovano",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Dr Coaracy Nunes",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Gabriel Almeida Café",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Gonçalves Dias",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Lauro Chaves",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Modelo Guanabara",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Sebastiana Lenir de Almeida",
+                "Escola"
+              ],
+              [
+                "IFAP Santana",
+                "Universidade / Inst. Federal"
+              ],
+              [
+                "SEÇÃO JUDICIÁRIA DO ESTADO DO AMAPÁ",
+                "Unidade de Justiça"
+              ],
+              [
+                "TRE-AP",
+                "Unidade de Justiça"
+              ],
+              [
+                "Tribunal de Justiça do Estado do Amapá",
+                "Unidade de Justiça"
+              ],
+              [
+                "UNIFAP Campus Santana",
+                "Universidade / Inst. Federal"
+              ]
+            ]
+          },
+          "monte alegre|PA": {
+            "nome": "Monte Alegre",
+            "uf": "PA",
+            "inst": 14,
+            "lista": [
+              [
+                "19ª ZE",
+                "Unidade de Justiça"
+              ],
+              [
+                "Eeem C Presidente Fernando Henrique",
+                "Escola"
+              ],
+              [
+                "EEEM Francisco Nobre De Almeida",
+                "Escola"
+              ],
+              [
+                "EETEPA",
+                "Universidade / Inst. Federal"
+              ],
+              [
+                "EMEF Carim Melém Fundamental",
+                "Escola"
+              ],
+              [
+                "EMEIEF Expedito Correa Moreira",
+                "Escola"
+              ],
+              [
+                "EMEIF Rosália Simões Barbosa",
+                "Escola"
+              ],
+              [
+                "Escola Afrânio Lins",
+                "Escola"
+              ],
+              [
+                "Escola Estadual de Ensino Médio Prefeito Carim Melém",
+                "Escola"
+              ],
+              [
+                "Escola ETEPPA",
+                "Escola"
+              ],
+              [
+                "Escola Municipal de Ensino F. Archimimo Baia da Costa",
+                "Escola"
+              ],
+              [
+                "Escola Municipal Santa Cruz",
+                "Escola"
+              ],
+              [
+                "Fórum Municipal Dr Tertuliano Lins",
+                "Unidade de Justiça"
+              ],
+              [
+                "UFOPA Campus Monte Alegre",
+                "Universidade / Inst. Federal"
+              ]
+            ]
+          },
+          "santarem|PA": {
+            "nome": "Santarém",
+            "uf": "PA",
+            "inst": 16,
+            "lista": [
+              [
+                "20ªZE, 83ªZE e 104ª ZE",
+                "Unidade de Justiça"
+              ],
+              [
+                "EEEFM Almirante Soares Dutra",
+                "Escola"
+              ],
+              [
+                "EEEFM Barão do Tapajós",
+                "Escola"
+              ],
+              [
+                "EEEFM Frei Ambrosio",
+                "Escola"
+              ],
+              [
+                "EEEFM Júlia Gonçalves Passarinho",
+                "Escola"
+              ],
+              [
+                "EEEFM Madre Imaculada",
+                "Escola"
+              ],
+              [
+                "EEEFM Pedro Álvares Cabral",
+                "Escola"
+              ],
+              [
+                "EEEFM Rio Tapajós",
+                "Escola"
+              ],
+              [
+                "EEEM Diocesana São Francisco",
+                "Escola"
+              ],
+              [
+                "EMEF Rotary",
+                "Escola"
+              ],
+              [
+                "EMEIF Fluminense",
+                "Escola"
+              ],
+              [
+                "FÓRUM DES. ERNESTO ADOLFO DE V. CHAVES",
+                "Unidade de Justiça"
+              ],
+              [
+                "JUIZADO ESPECIAL DE RELAÇÃO DE CONSUMO",
+                "Unidade de Justiça"
+              ],
+              [
+                "SUBSEÇÃO JUDICIÁRIA DE SANTARÉM",
+                "Unidade de Justiça"
+              ],
+              [
+                "UFOPA Campus Sede (Tapajós)",
+                "Universidade / Inst. Federal"
+              ],
+              [
+                "VARA DO JUIZADO ESPECIAL CIVEL",
+                "Unidade de Justiça"
+              ]
+            ]
+          }
+        }
+      },
+      "01": {
+        "total": 176,
+        "municipios": {
+          "autazes|AM": {
+            "nome": "Autazes",
+            "uf": "AM",
+            "inst": 12,
+            "lista": [
+              [
+                "Centro de Educação Tecnologica do Amazonas",
+                "Escola"
+              ],
+              [
+                "Fórum Dr. Aristófanes Bezerra De Castro",
+                "Unidade de Justiça"
+              ],
+              [
+                "Hospital Deodato de Miranda Leão",
+                "Unidade de Saúde"
+              ],
+              [
+                "IZAURA TORRES DA SILVA",
+                "Escola"
+              ],
+              [
+                "JOSÉ THOMÉ",
+                "Escola"
+              ],
+              [
+                "Maria Emilia Martins Mestrinho de Medeiros Raposo",
+                "Escola"
+              ],
+              [
+                "PEDRO SANTAREM PENALBER",
+                "Escola"
+              ],
+              [
+                "Prefeitura Municipal de Autazes",
+                "Prefeitura"
+              ],
+              [
+                "PROFª ERMELINDA SOARES STONE",
+                "Escola"
+              ],
+              [
+                "PROF MARQUINA CORDOVIL GUIMARAES",
+                "Escola"
+              ],
+              [
+                "RAYMUNDO SA",
+                "Escola"
+              ],
+              [
+                "VIDAL GOMES DE MELO",
+                "Escola"
+              ]
+            ]
+          },
+          "curua|PA": {
+            "nome": "Curuá",
+            "uf": "PA",
+            "inst": 7,
+            "lista": [
+              [
+                "Centro de Saúde Dr. Almir Gabriel",
+                "Unidade de Saúde"
+              ],
+              [
+                "ISMAEL CHAVES",
+                "Escola"
+              ],
+              [
+                "Prefeitura Municipal de Curuá",
+                "Prefeitura"
+              ],
+              [
+                "PROFª VALDEIZES ALMEIDA NUNES",
+                "Escola"
+              ],
+              [
+                "SAO RAIMUNDO NONATO",
+                "Escola"
+              ],
+              [
+                "SORAYA MARQUES CHAYB",
+                "Escola"
+              ],
+              [
+                "Unidade Integrada de Polícia de Curuá",
+                "Outros"
+              ]
+            ]
+          },
+          "itacoatiara|AM": {
+            "nome": "Itacoatiara",
+            "uf": "AM",
+            "inst": 34,
+            "lista": [
+              [
+                "CAPITAO-GENERAL MENDONCA FURTADO",
+                "Escola"
+              ],
+              [
+                "Centro de Educação Tecnologica do Amazonas",
+                "Escola"
+              ],
+              [
+                "CENTRO EDUCACIONAL MUNICIPAL JAMEL AMED",
+                "Escola"
+              ],
+              [
+                "CETI DOM JORGE EDWARD MARSKELL",
+                "Escola"
+              ],
+              [
+                "CHIBLY CALIL ABRAHIMI",
+                "Escola"
+              ],
+              [
+                "COLEGIO GRAO MESTRE VENANCIO IGREJAS LOPES",
+                "Escola"
+              ],
+              [
+                "CORONEL CRUZ",
+                "Escola"
+              ],
+              [
+                "DEPUTADO JOAO VALERIO DE OLIVEIRA",
+                "Escola"
+              ],
+              [
+                "DEPUTADO VITAL DE MENDONCA",
+                "Escola"
+              ],
+              [
+                "DOM PAULO MC HUGH",
+                "Escola"
+              ],
+              [
+                "DR VICENTE DE MENDONCA JUNIOR",
+                "Escola"
+              ],
+              [
+                "Fórum de Itacoatiara",
+                "Unidade de Justiça"
+              ],
+              [
+                "Hospital Regional José Mendes",
+                "Unidade de Saúde"
+              ],
+              [
+                "IFAM - Instituto Federal de Educação, Ciência e Tecn. do Am.",
+                "Universidade / Inst. Federal"
+              ],
+              [
+                "IRMAS DOROTEIA",
+                "Escola"
+              ],
+              [
+                "JOSE CARLOS MARTINS MESTRINHO",
+                "Escola"
+              ],
+              [
+                "MARIA IVONE DE ARAUJO LEITE",
+                "Escola"
+              ],
+              [
+                "NILDA VINHOTE DA SILVA",
+                "Escola"
+              ],
+              [
+                "OSMARINA MELO DE OLIVEIRA",
+                "Escola"
+              ],
+              [
+                "Prefeitura Municipal de Itacoatiara",
+                "Prefeitura"
+              ],
+              [
+                "PROFª BEREZITH NASCIMENTO DA SILVA",
+                "Escola"
+              ],
+              [
+                "PROF FERNANDO ELLIS RIBEIRO",
+                "Escola"
+              ],
+              [
+                "PROFª LUIZA DE VASCONCELOS DIAS",
+                "Escola"
+              ],
+              [
+                "PROFª MARIA HAIDE VALDEZ CHACON",
+                "Escola"
+              ],
+              [
+                "PROFª MARIA NIRA GUIMARAES",
+                "Escola"
+              ],
+              [
+                "PROFª MIRTES ROSA MENDES DE MENDONCA LIMA",
+                "Escola"
+              ],
+              [
+                "PROFª OLGA DE MORAES REGO FIGUEIREDO",
+                "Escola"
+              ],
+              [
+                "PROF VICENTE GERALDO DE MENDONCA LIMA",
+                "Escola"
+              ],
+              [
+                "SENADOR JOAO BOSCO RAMOS DE LIMA",
+                "Escola"
+              ],
+              [
+                "TENENTE GERALDO ROSSI CHARCHAR",
+                "Escola"
+              ],
+              [
+                "UEA - Universidade do Estado do Amazonas",
+                "Universidade / Inst. Federal"
+              ],
+              [
+                "UFAM - Universidade Federal do Amazonas - Campus I",
+                "Universidade / Inst. Federal"
+              ],
+              [
+                "UFAM - Universidade Federal do Amazonas - Campus II - ICET",
+                "Universidade / Inst. Federal"
+              ],
+              [
+                "YEDA HENRIQUES DE SOUZA AUZIER",
+                "Escola"
+              ]
+            ]
+          },
+          "juruti|PA": {
+            "nome": "Juruti",
+            "uf": "PA",
+            "inst": 17,
+            "lista": [
+              [
+                "BATISTA DILMA ROOSLI",
+                "Escola"
+              ],
+              [
+                "DEPUTADO AMERICO PEREIRA LIMA",
+                "Escola"
+              ],
+              [
+                "ELZA ALBUQUERQUE DE LIMA",
+                "Escola"
+              ],
+              [
+                "EMANUEL SALGADO VIEIRA",
+                "Escola"
+              ],
+              [
+                "Fórum de Justiça da Comarca de Juruti",
+                "Unidade de Justiça"
+              ],
+              [
+                "Hospital Municipal de Juruti",
+                "Unidade de Saúde"
+              ],
+              [
+                "Hospital Nove de Abril na Providência de Deus",
+                "Unidade de Saúde"
+              ],
+              [
+                "MARIA DA SAUDE PINHEIRO CUNHA",
+                "Escola"
+              ],
+              [
+                "MARIA LUCIA NASCIMENTO DA SILVA",
+                "Escola"
+              ],
+              [
+                "NOSSA SENHORA DA SAUDE",
+                "Escola"
+              ],
+              [
+                "Prefeitura Municipal de Juruti",
+                "Prefeitura"
+              ],
+              [
+                "PROF MARIA DA SILVA PEREIRA",
+                "Escola"
+              ],
+              [
+                "ROSA DE SAROM",
+                "Escola"
+              ],
+              [
+                "UFOPA - Universidade Federal do Oeste do Pará",
+                "Universidade / Inst. Federal"
+              ],
+              [
+                "VEREADOR RAIMUNDO DE SOUSA COELHO",
+                "Escola"
+              ],
+              [
+                "VEREADOR RAIMUNDO DE SOUZA COELHO",
+                "Escola"
+              ],
+              [
+                "ZELINDA DE SOUSA GUIMARAES",
+                "Escola"
+              ]
+            ]
+          },
+          "obidos|PA": {
+            "nome": "Óbidos",
+            "uf": "PA",
+            "inst": 21,
+            "lista": [
+              [
+                "DOM FLORIANO LOEWENAU",
+                "Escola"
+              ],
+              [
+                "DOUTOR RAYMUNDO CHAVES",
+                "Escola"
+              ],
+              [
+                "DUQUE DE CAXIAS",
+                "Escola"
+              ],
+              [
+                "FELIPE PATRONI",
+                "Escola"
+              ],
+              [
+                "Fórum da Justiça Cível de Óbidos",
+                "Unidade de Justiça"
+              ],
+              [
+                "FREI EDMUNDO BONCKOSCH",
+                "Escola"
+              ],
+              [
+                "GUILHERME LOPES DE BARROS",
+                "Escola"
+              ],
+              [
+                "Hospital Municipal José Benito Priante",
+                "Unidade de Saúde"
+              ],
+              [
+                "Hospital Santa Casa de Misericórdia de Óbidos",
+                "Unidade de Saúde"
+              ],
+              [
+                "IFPA - Instituto Federal de Educação, Ciência e Tecnologia do Pará",
+                "Universidade / Inst. Federal"
+              ],
+              [
+                "INGLES DE SOUZA",
+                "Escola"
+              ],
+              [
+                "IRMA FIRMINA",
+                "Escola"
+              ],
+              [
+                "JOSE VERISSIMO",
+                "Escola"
+              ],
+              [
+                "Prefeitura Municipal de Óbidos",
+                "Prefeitura"
+              ],
+              [
+                "PROFº JOSE TOSTES",
+                "Escola"
+              ],
+              [
+                "PROFº MANUEL VALENTE DO COUTO",
+                "Escola"
+              ],
+              [
+                "PROFº MAURICIO HAMOY",
+                "Escola"
+              ],
+              [
+                "RAIMUNDO CARDOSO DE ARAUJO",
+                "Escola"
+              ],
+              [
+                "SAO FRANCISCO",
+                "Escola"
+              ],
+              [
+                "SAO JOSE",
+                "Escola"
+              ],
+              [
+                "UFOPA - Universidade Federal do Oeste do Pará",
+                "Universidade / Inst. Federal"
+              ]
+            ]
+          },
+          "oriximina|PA": {
+            "nome": "Oriximiná",
+            "uf": "PA",
+            "inst": 23,
+            "lista": [
+              [
+                "DEPUTADO GABRIEL GUERREIRO",
+                "Escola"
+              ],
+              [
+                "EEEM DR ALMIR GABRIEL",
+                "Escola"
+              ],
+              [
+                "EEEM PADRE JOSE NICOLINO DE SOUZA",
+                "Escola"
+              ],
+              [
+                "EETEPA ORIXIMINA",
+                "Escola"
+              ],
+              [
+                "Fórum de Justica de Oriximiná",
+                "Unidade de Justiça"
+              ],
+              [
+                "HELVECIO GUERREIRO",
+                "Escola"
+              ],
+              [
+                "HMSDS - Hospital Maternidade São Domingos Sávio",
+                "Unidade de Saúde"
+              ],
+              [
+                "Hospital Municipal de Oriximiná",
+                "Unidade de Saúde"
+              ],
+              [
+                "JOAO PAULO I",
+                "Escola"
+              ],
+              [
+                "LAURA WANDERLEY DINIZ",
+                "Escola"
+              ],
+              [
+                "NOVA ESPERANCA",
+                "Escola"
+              ],
+              [
+                "Prefeitura Municipal de Oriximiná",
+                "Prefeitura"
+              ],
+              [
+                "PROFª ADELIA FIGUEIRA",
+                "Escola"
+              ],
+              [
+                "PROFª IRACEMA GIVONI",
+                "Escola"
+              ],
+              [
+                "PROFª JOANA BANDEIRA MONTEIRO",
+                "Escola"
+              ],
+              [
+                "PROFª MARIA POMPEIA IUDICE DA SILVA",
+                "Escola"
+              ],
+              [
+                "PROFª MARIA QUEIROZ DE SOUZA",
+                "Escola"
+              ],
+              [
+                "PROFESSOR ASSUNCAO",
+                "Escola"
+              ],
+              [
+                "RAIMUNDO MUNIZ DE FIGUEIREDO",
+                "Escola"
+              ],
+              [
+                "SANTA MARIA GORETTI",
+                "Escola"
+              ],
+              [
+                "SENADOR ALOYSIO DA COSTA CHAVES",
+                "Escola"
+              ],
+              [
+                "SENADOR LAMEIRA BITTENCOURT",
+                "Escola"
+              ],
+              [
+                "UFOPA - Universidade Federal do Oeste do Pará",
+                "Universidade / Inst. Federal"
+              ]
+            ]
+          },
+          "parintins|AM": {
+            "nome": "Parintins",
+            "uf": "AM",
+            "inst": 35,
+            "lista": [
+              [
+                "ARAUJO FILHO",
+                "Escola"
+              ],
+              [
+                "BEATRIZ MARANHAO",
+                "Escola"
+              ],
+              [
+                "BRANDAO DE AMORIM",
+                "Escola"
+              ],
+              [
+                "Centro de Educação Tecnologica do Amazonas",
+                "Escola"
+              ],
+              [
+                "CHARLES GARCIA",
+                "Escola"
+              ],
+              [
+                "CLAUDEMIR CARVALHO",
+                "Escola"
+              ],
+              [
+                "COLEGIO BATISTA DE PARINTINS",
+                "Escola"
+              ],
+              [
+                "COLEGIO NOSSA SENHORA DO CARMO",
+                "Escola"
+              ],
+              [
+                "DA PAZ DE PARINTINS",
+                "Escola"
+              ],
+              [
+                "DOM GINO MALVESTIO",
+                "Escola"
+              ],
+              [
+                "Fórum de Justiça da Comarca de Parintins",
+                "Unidade de Justiça"
+              ],
+              [
+                "GENTIL BELEM",
+                "Escola"
+              ],
+              [
+                "GENY BENTES DE JESUS",
+                "Escola"
+              ],
+              [
+                "GLAUCIO GONCALVES",
+                "Escola"
+              ],
+              [
+                "Hospital Dr. Jofre Matos Cohen",
+                "Unidade de Saúde"
+              ],
+              [
+                "IFAM - Instituto Federal de Educação, Ciência e Tecn. do Am.",
+                "Universidade / Inst. Federal"
+              ],
+              [
+                "IRMA CRISTINE",
+                "Escola"
+              ],
+              [
+                "IRMA SA",
+                "Escola"
+              ],
+              [
+                "LILA MAIA",
+                "Escola"
+              ],
+              [
+                "LUZ DO SABER",
+                "Escola"
+              ],
+              [
+                "MERCIA CARDOSO COIMBRA",
+                "Escola"
+              ],
+              [
+                "MINISTRO WALDEMAR PEDROSA",
+                "Escola"
+              ],
+              [
+                "PADRE JORGE FREIZZINNI",
+                "Escola"
+              ],
+              [
+                "Prefeitura Municipal de Parintins-Setor de Terras",
+                "Prefeitura"
+              ],
+              [
+                "PRESBIT. MISSIONARIA SUE ANN COUSAR",
+                "Escola"
+              ],
+              [
+                "PROF ADERSON DE MENEZES",
+                "Escola"
+              ],
+              [
+                "RYOTA OYAMA",
+                "Escola"
+              ],
+              [
+                "SAO FRANCISCO DE ASSIS",
+                "Escola"
+              ],
+              [
+                "SAO JOSE OPERARIO",
+                "Escola"
+              ],
+              [
+                "SENADOR ALVARO MAIA",
+                "Escola"
+              ],
+              [
+                "SENADOR JOAO BOSCO",
+                "Escola"
+              ],
+              [
+                "SUZANA DE JESUS AZEDO",
+                "Escola"
+              ],
+              [
+                "TOMASZINHO MEIRELLES",
+                "Escola"
+              ],
+              [
+                "UEA - Universidade do Estado do Amazonas",
+                "Universidade / Inst. Federal"
+              ],
+              [
+                "UFAM - Unoversidade Federal do Amazonas",
+                "Universidade / Inst. Federal"
+              ]
+            ]
+          },
+          "terra santa|PA": {
+            "nome": "Terra Santa",
+            "uf": "PA",
+            "inst": 14,
+            "lista": [
+              [
+                "ANTONIO CANDIDO MACHADO",
+                "Escola"
+              ],
+              [
+                "Fórum de Justiça da Comarca de Terra Santa",
+                "Unidade de Justiça"
+              ],
+              [
+                "Hospital Municipal Frei Elizeu Eismann",
+                "Unidade de Saúde"
+              ],
+              [
+                "JOSÉ PICANÇO BENTES",
+                "Escola"
+              ],
+              [
+                "NEUSA BENTES DIOGO",
+                "Escola"
+              ],
+              [
+                "PADRE JOSE NICOLINO",
+                "Escola"
+              ],
+              [
+                "Prefeitura Municipal de Terra Santa",
+                "Prefeitura"
+              ],
+              [
+                "PROFª EDMARA CUNHA CARVALHO",
+                "Escola"
+              ],
+              [
+                "PROFª FRANCISCA SOUZA BARBOSA",
+                "Escola"
+              ],
+              [
+                "PROFº LEONOR MACHADO FERNANDES",
+                "Escola"
+              ],
+              [
+                "PROFª NUBIA BENTES PICANCO",
+                "Escola"
+              ],
+              [
+                "RAIMUNDA DA COSTA BENTES",
+                "Escola"
+              ],
+              [
+                "SAO SEBASTIAO",
+                "Escola"
+              ],
+              [
+                "SIMONE DAS NEVES PINHEIRO",
+                "Escola"
+              ]
+            ]
+          },
+          "urucurituba|AM": {
+            "nome": "Urucurituba",
+            "uf": "AM",
+            "inst": 9,
+            "lista": [
+              [
+                "Centro de Educação Tecnologica do Amazonas",
+                "Escola"
+              ],
+              [
+                "Fórum da Comarca de Urucurituba",
+                "Unidade de Justiça"
+              ],
+              [
+                "Hospital Silvério Tundis",
+                "Unidade de Saúde"
+              ],
+              [
+                "MARIA ARRUDA",
+                "Escola"
+              ],
+              [
+                "Prefeitura Municipal de Urucurituba",
+                "Prefeitura"
+              ],
+              [
+                "PROF DJANIRA NEVES DE LIMA",
+                "Escola"
+              ],
+              [
+                "PROF JOSE GAMA FILHO",
+                "Escola"
+              ],
+              [
+                "PROF SUZETE TUNDIS CARVALHO",
+                "Escola"
+              ],
+              [
+                "PROFESSOR ARMANDO KETTLE",
+                "Escola"
+              ]
+            ]
+          },
+          "manaus|AM": {
+            "nome": "Manaus",
+            "uf": "AM",
+            "inst": 4,
+            "lista": [
+              [
+                "4º CTA",
+                "Forças Armadas"
+              ],
+              [
+                "Marinha do Brasil",
+                "Forças Armadas"
+              ],
+              [
+                "PRODAM",
+                "Outros"
+              ],
+              [
+                "RNP",
+                "Universidade / Inst. Federal"
+              ]
+            ]
+          }
+        }
+      },
+      "02": {
+        "total": 257,
+        "municipios": {
+          "alvaraes|AM": {
+            "nome": "Alvarães",
+            "uf": "AM",
+            "inst": 8,
+            "lista": [
+              [
+                "Centro de Educação Tecnologica do Amazonas",
+                "Escola"
+              ],
+              [
+                "E.E Prof Gilberto Mestrinho",
+                "Escola"
+              ],
+              [
+                "E.E Prof Johannes Petrus",
+                "Escola"
+              ],
+              [
+                "E.E Senador Fabio Lucena",
+                "Escola"
+              ],
+              [
+                "E.M Atanazia Frazao",
+                "Escola"
+              ],
+              [
+                "E.M Mayara Aziz",
+                "Escola"
+              ],
+              [
+                "Praça Alvarães",
+                "Prefeitura"
+              ],
+              [
+                "Unidade Hospitalar de Alvarães",
+                "Unidade de Saúde"
+              ]
+            ]
+          },
+          "amatura|AM": {
+            "nome": "Amaturá",
+            "uf": "AM",
+            "inst": 7,
+            "lista": [
+              [
+                "Centro de Educação Tecnologica do Amazonas",
+                "Escola"
+              ],
+              [
+                "E.E Amatura",
+                "Escola"
+              ],
+              [
+                "E.M Eudocia Andrade",
+                "Escola"
+              ],
+              [
+                "E.M Vitoria Simao",
+                "Escola"
+              ],
+              [
+                "Hospital Frei Rob. de San Severino",
+                "Unidade de Saúde"
+              ],
+              [
+                "Praça São Cristovão",
+                "Prefeitura"
+              ],
+              [
+                "Tribunal de Justiça - Amaturá",
+                "Unidade de Justiça"
+              ]
+            ]
+          },
+          "anama|AM": {
+            "nome": "Anamã",
+            "uf": "AM",
+            "inst": 9,
+            "lista": [
+              [
+                "Centro de Educação Tecnologica do Amazonas",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Alcinda Pinheiro Costa",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Jesuina Regis",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Tancredo Neves",
+                "Escola"
+              ],
+              [
+                "Escola Municipal Ivan Jaques",
+                "Escola"
+              ],
+              [
+                "Escola Municipal Raimilda Suely Antunes",
+                "Escola"
+              ],
+              [
+                "Fórum Des. Benjamin Magalhães Brandão",
+                "Unidade de Justiça"
+              ],
+              [
+                "Praça Franciscana",
+                "Prefeitura"
+              ],
+              [
+                "Unidade Mista de Anamã Francisco Sales de Moura",
+                "Unidade de Saúde"
+              ]
+            ]
+          },
+          "anori|AM": {
+            "nome": "Anori",
+            "uf": "AM",
+            "inst": 10,
+            "lista": [
+              [
+                "Centro de Educação Tecnologica do Amazonas",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Almerinda Nogueira Uchoa Izel",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Eurico Gaspar Dutra",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Presidente Costa E Silva",
+                "Escola"
+              ],
+              [
+                "Escola Municipal Professor José Alves Roberto",
+                "Escola"
+              ],
+              [
+                "Escola Pedro Rienzi de Mello Rosas",
+                "Escola"
+              ],
+              [
+                "Escola Professora Haide Miranda Camara",
+                "Escola"
+              ],
+              [
+                "Fórum de Justiça Dra. Edmée Pereira Caminha",
+                "Unidade de Justiça"
+              ],
+              [
+                "Hospital Darlinda Ribeiro",
+                "Unidade de Saúde"
+              ],
+              [
+                "Praça Capitão Pedro Silva",
+                "Prefeitura"
+              ]
+            ]
+          },
+          "atalaia do norte|AM": {
+            "nome": "Atalaia do Norte",
+            "uf": "AM",
+            "inst": 9,
+            "lista": [
+              [
+                "E.E Carmozina Baima de Almeida",
+                "Escola"
+              ],
+              [
+                "E.E Pio Veiga",
+                "Escola"
+              ],
+              [
+                "E.E Prof. Tereza Lemos de Oliveira Santos",
+                "Escola"
+              ],
+              [
+                "E.M Colonia do Boia",
+                "Escola"
+              ],
+              [
+                "E.M Professora Luciney Mello Carneiro",
+                "Escola"
+              ],
+              [
+                "E.M Raimunda Galate",
+                "Escola"
+              ],
+              [
+                "Praça de Alimentação",
+                "Prefeitura"
+              ],
+              [
+                "Tribunal de Justiça - Atalaia Norte",
+                "Unidade de Justiça"
+              ],
+              [
+                "Unidade Hospitalar de Atalaia do Norte",
+                "Unidade de Saúde"
+              ]
+            ]
+          },
+          "tabatinga|AM": {
+            "nome": "Tabatinga",
+            "uf": "AM",
+            "inst": 28,
+            "lista": [
+              [
+                "Centro de Educação Tecnologica do Amazonas",
+                "Escola"
+              ],
+              [
+                "Cmdo. Fronteira Solimões",
+                "Forças Armadas"
+              ],
+              [
+                "Coordenação Regional Alto Solimões - FUNAI",
+                "Outros"
+              ],
+              [
+                "E. M Professor Luiz Soares dos Santos",
+                "Escola"
+              ],
+              [
+                "E. M Professora Maria Batista Lopes",
+                "Escola"
+              ],
+              [
+                "E. M Professora Suely Peixoto Davila",
+                "Escola"
+              ],
+              [
+                "E. M Senador Fabio Lucena",
+                "Escola"
+              ],
+              [
+                "E.E  Conceicao Xavier de Alencar",
+                "Escola"
+              ],
+              [
+                "E.E  Duque de Caxias",
+                "Escola"
+              ],
+              [
+                "E.E Joao Carlos Pereira dos Santos",
+                "Escola"
+              ],
+              [
+                "E.E  Marechal Rondon",
+                "Escola"
+              ],
+              [
+                "E.E  Pedro Teixeira",
+                "Escola"
+              ],
+              [
+                "E.E  Prof. Raimundo da Silva Carvalho",
+                "Escola"
+              ],
+              [
+                "E.E. Belem do Solimões",
+                "Escola"
+              ],
+              [
+                "E.M  Francisco Mendes",
+                "Escola"
+              ],
+              [
+                "E.M  Indigena Ngetchutchu Ya Mecu",
+                "Escola"
+              ],
+              [
+                "E.M Prof Ambrosio Bemerguy",
+                "Escola"
+              ],
+              [
+                "E.M  Professora Jociedes Andrade",
+                "Escola"
+              ],
+              [
+                "E.M. Indigena Eware Mowatcha",
+                "Escola"
+              ],
+              [
+                "F.A Dest Cont Esp Aéreo de Tabatinga",
+                "Forças Armadas"
+              ],
+              [
+                "IFAM Campos Tabatinga",
+                "Universidade / Inst. Federal"
+              ],
+              [
+                "M.B Capitania Fluvial de Tabatinga",
+                "Forças Armadas"
+              ],
+              [
+                "Polo Base Belém do Solimões - Saúde",
+                "Unidade de Saúde"
+              ],
+              [
+                "Praça de Igreja da Matriz",
+                "Prefeitura"
+              ],
+              [
+                "Tribunal de Justiça - Tabatinga",
+                "Unidade de Justiça"
+              ],
+              [
+                "UEA - Campus Tabatinga",
+                "Universidade / Inst. Federal"
+              ],
+              [
+                "Unidade de Atenção de Saúde Indigena",
+                "Unidade de Saúde"
+              ],
+              [
+                "Unidade Hospitalar de Tabatinga",
+                "Unidade de Saúde"
+              ]
+            ]
+          },
+          "benjamin constant|AM": {
+            "nome": "Benjamin Constant",
+            "uf": "AM",
+            "inst": 15,
+            "lista": [
+              [
+                "Centro de Educação Tecnologica do Amazonas",
+                "Escola"
+              ],
+              [
+                "Coordenação Técnica Local (CTL)",
+                "Outros"
+              ],
+              [
+                "E.E Coronel Raymundo Cunha",
+                "Escola"
+              ],
+              [
+                "E.E Nossa Senhora da Imaculada Conceicao",
+                "Escola"
+              ],
+              [
+                "E.E Professor Aristelio Sabino de Oliveira",
+                "Escola"
+              ],
+              [
+                "E.E Professora Rosa Cruz",
+                "Escola"
+              ],
+              [
+                "E.M Cosme Jean",
+                "Escola"
+              ],
+              [
+                "E.M Olavo Bilac",
+                "Escola"
+              ],
+              [
+                "E.M Prof. Graziela Correa de Oliveira",
+                "Escola"
+              ],
+              [
+                "E.M Prof. Margarete Rabelo Coelho / Cesbi",
+                "Escola"
+              ],
+              [
+                "E.M Professora Sofia Barbosa",
+                "Escola"
+              ],
+              [
+                "Hospital Geral de Benjamin Constant",
+                "Unidade de Saúde"
+              ],
+              [
+                "Praça Espaço Cultural Raimundo Dimas",
+                "Prefeitura"
+              ],
+              [
+                "Tribunal de Justiça - B. Constant",
+                "Unidade de Justiça"
+              ],
+              [
+                "UFAM - Campus Benjamin Constant",
+                "Universidade / Inst. Federal"
+              ]
+            ]
+          },
+          "coari|AM": {
+            "nome": "Coari",
+            "uf": "AM",
+            "inst": 17,
+            "lista": [
+              [
+                "Escola Est. Ceti Prof. Manuel Vicente Ferreira Lima",
+                "Escola"
+              ],
+              [
+                "Escola Estadual João Vieira",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Maria Almeida do Nascimento",
+                "Escola"
+              ],
+              [
+                "Escola Estadual N S Perpetuo Socorro",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Prefeito Alexandre Montoril",
+                "Escola"
+              ],
+              [
+                "Escola Municipal Domingos Agenor Smith",
+                "Escola"
+              ],
+              [
+                "Escola Municipal Maria Elisangela Litaiff",
+                "Escola"
+              ],
+              [
+                "Escola Municipal Raimunda Cruz e Silva",
+                "Escola"
+              ],
+              [
+                "Escola Municipal Rui Souto Alencar",
+                "Escola"
+              ],
+              [
+                "Escola Municipal Ursulina Souza de Oliveira",
+                "Escola"
+              ],
+              [
+                "Fórum Desembargador Cândido Honório Soares Ferreira",
+                "Unidade de Justiça"
+              ],
+              [
+                "Hospital Regional de Coari",
+                "Unidade de Saúde"
+              ],
+              [
+                "Instituto Bereano de Coari",
+                "Escola"
+              ],
+              [
+                "Instituto Federal do Amazonas",
+                "Universidade / Inst. Federal"
+              ],
+              [
+                "Praça do estudante",
+                "Prefeitura"
+              ],
+              [
+                "Universidade do Estado do Amazonas",
+                "Universidade / Inst. Federal"
+              ],
+              [
+                "Universidade Federal do Amazonas",
+                "Universidade / Inst. Federal"
+              ]
+            ]
+          },
+          "codajas|AM": {
+            "nome": "Codajás",
+            "uf": "AM",
+            "inst": 14,
+            "lista": [
+              [
+                "Centro de Educação Tecnologica do Amazonas",
+                "Escola"
+              ],
+              [
+                "Ceti Jose de Araujo Rodrigues",
+                "Escola"
+              ],
+              [
+                "Escola E. Prof. Gilberto Mestrinho de Medeiros Raposo",
+                "Escola"
+              ],
+              [
+                "Escola Est. Indígena Prof. Luiz Gonzaga de Souza Filho",
+                "Escola"
+              ],
+              [
+                "Escola Est. Nossa Senhora das Graças",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Jose Melo de Oliveira",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Rodrigo Costa",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Wilson Garcia Bastos",
+                "Escola"
+              ],
+              [
+                "Escola Municipal Dona Maria Braga",
+                "Escola"
+              ],
+              [
+                "Escola Municipal Instituto Eurico Nelson",
+                "Escola"
+              ],
+              [
+                "Escola Municipal Ozias Monteiro Rodrigues",
+                "Escola"
+              ],
+              [
+                "Fórum Desembargador Joaquim Paulino Gomes",
+                "Unidade de Justiça"
+              ],
+              [
+                "Hospital João da Silva Bastos",
+                "Unidade de Saúde"
+              ],
+              [
+                "Praça Dom Mário",
+                "Prefeitura"
+              ]
+            ]
+          },
+          "fonte boa|AM": {
+            "nome": "Fonte Boa",
+            "uf": "AM",
+            "inst": 12,
+            "lista": [
+              [
+                "Centro de Educação Tecnologica do Amazonas",
+                "Escola"
+              ],
+              [
+                "E.E Armando Mendes",
+                "Escola"
+              ],
+              [
+                "E.E Nossa Senhora de Guadalupe",
+                "Escola"
+              ],
+              [
+                "E.E Sao Jose",
+                "Escola"
+              ],
+              [
+                "E.E Waldemarina Ferreira",
+                "Escola"
+              ],
+              [
+                "E.E Zulmira Lima Lins",
+                "Escola"
+              ],
+              [
+                "E.M Filomena Lisboa",
+                "Escola"
+              ],
+              [
+                "E.M Francisca Creuza M de Paula",
+                "Escola"
+              ],
+              [
+                "E.M Prof Valnei Correa de Souza",
+                "Escola"
+              ],
+              [
+                "Hospital Regional de Fonte Boa",
+                "Unidade de Saúde"
+              ],
+              [
+                "Praça Nossa Senhora de Guadalupe",
+                "Prefeitura"
+              ],
+              [
+                "Tribunal de Justiça - Comarca Fonte Boa",
+                "Unidade de Justiça"
+              ]
+            ]
+          },
+          "iranduba|AM": {
+            "nome": "Iranduba",
+            "uf": "AM",
+            "inst": 13,
+            "lista": [
+              [
+                "Escola Estadual Cecília Carneiro de Oliveira",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Isaias Vasconcelos",
+                "Escola"
+              ],
+              [
+                "Escola Municipal Ana Barbosa de Castro",
+                "Escola"
+              ],
+              [
+                "Escola Municipal Creuza Abess Farah",
+                "Escola"
+              ],
+              [
+                "Escola Municipal Fernando Damasceno",
+                "Escola"
+              ],
+              [
+                "Escola Municipal Guido Affonso Hickmann",
+                "Escola"
+              ],
+              [
+                "Escola Municipal Noemi Santos Pereira",
+                "Escola"
+              ],
+              [
+                "Escola Municipal Segundo Ebling",
+                "Escola"
+              ],
+              [
+                "Escola Professora Ervila Souza de Assis",
+                "Escola"
+              ],
+              [
+                "Fórum Dr. Luiz Augusto Santa Cruz Machado",
+                "Unidade de Justiça"
+              ],
+              [
+                "Hospital Regional Hilda Freire",
+                "Unidade de Saúde"
+              ],
+              [
+                "Instituto Federal do Amazonas",
+                "Universidade / Inst. Federal"
+              ],
+              [
+                "Praça dos Três Poderes",
+                "Prefeitura"
+              ]
+            ]
+          },
+          "jutai|AM": {
+            "nome": "Jutaí",
+            "uf": "AM",
+            "inst": 13,
+            "lista": [
+              [
+                "Casa de Apoio à Saúde Indígena (CASAI)",
+                "Unidade de Saúde"
+              ],
+              [
+                "E.E Irma Bruna",
+                "Escola"
+              ],
+              [
+                "E.E Padre Joao Van Den",
+                "Escola"
+              ],
+              [
+                "E.E Sao Francisco",
+                "Escola"
+              ],
+              [
+                "E.M Bom Jesus",
+                "Escola"
+              ],
+              [
+                "E.M Caio de Araujo Lasmar",
+                "Escola"
+              ],
+              [
+                "E.M Deusuila de Paula Aguiar",
+                "Escola"
+              ],
+              [
+                "E.M Presidente Tancredo Neves",
+                "Escola"
+              ],
+              [
+                "E.M Santa Tereza",
+                "Escola"
+              ],
+              [
+                "Praça Matriz de São José",
+                "Prefeitura"
+              ],
+              [
+                "Tribunal de Justiça - Jutaí",
+                "Unidade de Justiça"
+              ],
+              [
+                "UEA - Campus Jutaí",
+                "Universidade / Inst. Federal"
+              ],
+              [
+                "Unidade Hospitalar de Jutaí",
+                "Unidade de Saúde"
+              ]
+            ]
+          },
+          "manacapuru|AM": {
+            "nome": "Manacapuru",
+            "uf": "AM",
+            "inst": 18,
+            "lista": [
+              [
+                "EMEF Governador Henoch da Silva Reis",
+                "Escola"
+              ],
+              [
+                "EMEF Manorel Afonso de Brito",
+                "Escola"
+              ],
+              [
+                "EMEF Maria do Socorro Queiroz Farias",
+                "Escola"
+              ],
+              [
+                "EMEF Prof Beatriz da Silva Bezerra",
+                "Escola"
+              ],
+              [
+                "EMEF Professora Francisca Mafra de Carvalho",
+                "Escola"
+              ],
+              [
+                "EMEF Zoraida Ribeiro Alexandre",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Agra Reis",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Andre Vidal de Araujo",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Carlos Pinho",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Jamil Seffair",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Jose Mota",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Jose Seffair",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Nossa Senhora de Nazare",
+                "Escola"
+              ],
+              [
+                "Fórum de Justiça Doutor Giovanni Figliuolo",
+                "Unidade de Justiça"
+              ],
+              [
+                "Hospital Geral e Maternidade Manacapuru",
+                "Unidade de Saúde"
+              ],
+              [
+                "Instituto Federal do Amazonas",
+                "Universidade / Inst. Federal"
+              ],
+              [
+                "Praça 16 de Julho",
+                "Prefeitura"
+              ],
+              [
+                "Universidade do Estado do Amazonas",
+                "Universidade / Inst. Federal"
+              ]
+            ]
+          },
+          "sao paulo de olivenca|AM": {
+            "nome": "São Paulo de Olivença",
+            "uf": "AM",
+            "inst": 12,
+            "lista": [
+              [
+                "E.E Calixto Ribeiro",
+                "Escola"
+              ],
+              [
+                "E.E  Desembargador Joao Rebelo Correa",
+                "Escola"
+              ],
+              [
+                "E.E Domenico Marzi",
+                "Escola"
+              ],
+              [
+                "E.E  Monsenhor Evangelista Cefalonia",
+                "Escola"
+              ],
+              [
+                "E.E  Professora Nilce Rocha Coelho",
+                "Escola"
+              ],
+              [
+                "E.M Indig. Kambeba Prof Ivan Balieiro Saraiva",
+                "Escola"
+              ],
+              [
+                "E.M Professora Marlita Pinto Elias",
+                "Escola"
+              ],
+              [
+                "E.M Professora Sonia Maria - CETAM",
+                "Escola"
+              ],
+              [
+                "E.M Sonho Infantil",
+                "Escola"
+              ],
+              [
+                "Hospital Robert Paul Baksmann",
+                "Unidade de Saúde"
+              ],
+              [
+                "Praça São Paulo",
+                "Prefeitura"
+              ],
+              [
+                "Tribunal de Justiça - SP Olivença",
+                "Unidade de Justiça"
+              ]
+            ]
+          },
+          "santo antonio do ica|AM": {
+            "nome": "Santo Antônio do Içá",
+            "uf": "AM",
+            "inst": 14,
+            "lista": [
+              [
+                "Centro de Educação Tecnologica do Amazonas",
+                "Escola"
+              ],
+              [
+                "E.E Deuzalina Pinto Ribeiro",
+                "Escola"
+              ],
+              [
+                "E.E Eduardo Ribeiro",
+                "Escola"
+              ],
+              [
+                "E.E Rosa Garcia",
+                "Escola"
+              ],
+              [
+                "E.E Santo Antonio",
+                "Escola"
+              ],
+              [
+                "E.M Indigena Maria Pinto Pereira",
+                "Escola"
+              ],
+              [
+                "E.M Josue Cordeiro de Souza",
+                "Escola"
+              ],
+              [
+                "E.M Nossa Senhora da Saude",
+                "Escola"
+              ],
+              [
+                "E.M Prof Maria Rubim Braga",
+                "Escola"
+              ],
+              [
+                "E.M Professor Zenith Ramos",
+                "Escola"
+              ],
+              [
+                "Praça da Igreja Santo Antônio",
+                "Prefeitura"
+              ],
+              [
+                "Tribunal de Justiça - Santo Antônio do Iça",
+                "Unidade de Justiça"
+              ],
+              [
+                "UEA - Campus Santo Antônio do Iça",
+                "Universidade / Inst. Federal"
+              ],
+              [
+                "Unidade Hospitalar de Santo Antônio do Iça",
+                "Unidade de Saúde"
+              ]
+            ]
+          },
+          "tefe|AM": {
+            "nome": "Tefé",
+            "uf": "AM",
+            "inst": 33,
+            "lista": [
+              [
+                "(DSEI) Médio Rio Solimões e Afluentes - FUNAI",
+                "Unidade de Saúde"
+              ],
+              [
+                "Casa de Saúde Indígena (CASAI)",
+                "Unidade de Saúde"
+              ],
+              [
+                "Centro de Educação Tecnologica do Amazonas",
+                "Escola"
+              ],
+              [
+                "E. E Alcy Jara de Queiroz",
+                "Escola"
+              ],
+              [
+                "E. E Antídio Borges Façanha",
+                "Escola"
+              ],
+              [
+                "E. E Eduardo Ribeiro",
+                "Escola"
+              ],
+              [
+                "E. E Eduardo Sá",
+                "Escola"
+              ],
+              [
+                "E. E Getúlio Vargas",
+                "Escola"
+              ],
+              [
+                "E. E Madre Maria das Merces",
+                "Escola"
+              ],
+              [
+                "E. E Profª Nazira Litaiff Moriz",
+                "Escola"
+              ],
+              [
+                "E. E Professor Isidoro Gonçalves de Souza",
+                "Escola"
+              ],
+              [
+                "E. E Santa Thereza",
+                "Escola"
+              ],
+              [
+                "E. E São José",
+                "Escola"
+              ],
+              [
+                "E. M Bertholletia Excelsa",
+                "Escola"
+              ],
+              [
+                "E. M Caminho Feliz",
+                "Escola"
+              ],
+              [
+                "E. M Profª Dorotéia Bezerra dos Santos",
+                "Escola"
+              ],
+              [
+                "E. M São Francisco",
+                "Escola"
+              ],
+              [
+                "E.B 16ª Bda de Inf de Selva",
+                "Forças Armadas"
+              ],
+              [
+                "E.E Corintho Borges Facanha",
+                "Escola"
+              ],
+              [
+                "E.E Dep Armando De Souza Mendes",
+                "Escola"
+              ],
+              [
+                "E.E Frei Andre da Costa",
+                "Escola"
+              ],
+              [
+                "E.E Governador Gilberto Mestrinho",
+                "Escola"
+              ],
+              [
+                "E.M Colonia Ventura",
+                "Escola"
+              ],
+              [
+                "E.M Mayara Redman Abdel Aziz",
+                "Escola"
+              ],
+              [
+                "E.M Prof Helyon De Oliveira",
+                "Escola"
+              ],
+              [
+                "E.M Walter Cabral",
+                "Escola"
+              ],
+              [
+                "E.M Wenceslau De Queiroz",
+                "Escola"
+              ],
+              [
+                "F.A - Quartel: DTCEA-TF",
+                "Forças Armadas"
+              ],
+              [
+                "Hospital Regional de Tefé",
+                "Unidade de Saúde"
+              ],
+              [
+                "M.B - Agência Fluvial De Tefé",
+                "Forças Armadas"
+              ],
+              [
+                "Praça Complexo Esportivo Praça",
+                "Prefeitura"
+              ],
+              [
+                "Tribunal de Justiça - Comarca de Tefé",
+                "Unidade de Justiça"
+              ],
+              [
+                "UEA - Campus Tefé",
+                "Universidade / Inst. Federal"
+              ]
+            ]
+          },
+          "tonantins|AM": {
+            "nome": "Tonantins",
+            "uf": "AM",
+            "inst": 13,
+            "lista": [
+              [
+                "E.E  Madre Regina Protmann",
+                "Escola"
+              ],
+              [
+                "E.E Sao Francisco",
+                "Escola"
+              ],
+              [
+                "E.M Alfredo Pessoa",
+                "Escola"
+              ],
+              [
+                "E.M Benedito Rodrigues",
+                "Escola"
+              ],
+              [
+                "E.M Jose Raimundo da Costa",
+                "Escola"
+              ],
+              [
+                "E.M Lucila Maria Rodrigues",
+                "Escola"
+              ],
+              [
+                "E.M Octavio Amazonas",
+                "Escola"
+              ],
+              [
+                "E.M Santo Expedito",
+                "Escola"
+              ],
+              [
+                "E.M Sao Francisco de Assis",
+                "Escola"
+              ],
+              [
+                "E.M Suzana Alborado",
+                "Escola"
+              ],
+              [
+                "Hospital Frei Francisco",
+                "Unidade de Saúde"
+              ],
+              [
+                "Praça São Cristovão",
+                "Prefeitura"
+              ],
+              [
+                "Tribunal de Justiça - Santo Antônio do Iça",
+                "Unidade de Justiça"
+              ]
+            ]
+          },
+          "uarini|AM": {
+            "nome": "Uarini",
+            "uf": "AM",
+            "inst": 12,
+            "lista": [
+              [
+                "Casa de Apoio à Saúde Indígena (CASAI)",
+                "Unidade de Saúde"
+              ],
+              [
+                "Centro de Educação Tecnologica do Amazonas",
+                "Escola"
+              ],
+              [
+                "E.E Edson Melo",
+                "Escola"
+              ],
+              [
+                "E.E Hermano Stradelli",
+                "Escola"
+              ],
+              [
+                "E.M Azenilda Braga Lopes",
+                "Escola"
+              ],
+              [
+                "E.M Carlos Braga",
+                "Escola"
+              ],
+              [
+                "E.M Ednelza Bezerra Trindade",
+                "Escola"
+              ],
+              [
+                "E.M Professora Maria Marcelina",
+                "Escola"
+              ],
+              [
+                "E.M Santiago Canayo Peres",
+                "Escola"
+              ],
+              [
+                "Praça da Orla Municipal",
+                "Prefeitura"
+              ],
+              [
+                "Tribunal de Justiça - Uarini",
+                "Unidade de Justiça"
+              ],
+              [
+                "Unidade Hospitalar de Uarini",
+                "Unidade de Saúde"
+              ]
+            ]
+          }
+        }
+      },
+      "03": {
+        "total": 70,
+        "municipios": {
+          "afua|PA": {
+            "nome": "Afuá",
+            "uf": "PA",
+            "inst": 8,
+            "lista": [
+              [
+                "E.E Leopoldina Guerreiro",
+                "Escola"
+              ],
+              [
+                "E.M Frei Faustino Legard",
+                "Escola"
+              ],
+              [
+                "E.M Leopoldodina Guerreiro",
+                "Escola"
+              ],
+              [
+                "E.M Prof Nadir Lobato de Ataide",
+                "Escola"
+              ],
+              [
+                "E.M Professora Raimunda Barauna",
+                "Escola"
+              ],
+              [
+                "Praça Municipal Albertino Baraúna",
+                "Prefeitura"
+              ],
+              [
+                "Tribunal de Justiça",
+                "Unidade de Justiça"
+              ],
+              [
+                "UBS Capim Marinho",
+                "Unidade de Saúde"
+              ]
+            ]
+          },
+          "belem|PA": {
+            "nome": "Belém",
+            "uf": "PA",
+            "inst": 22,
+            "lista": [
+              [
+                "Aeronáutica - DCEAB",
+                "Forças Armadas"
+              ],
+              [
+                "E.E Alexandre Zacarias De Assuncao",
+                "Escola"
+              ],
+              [
+                "E.E Almirante Guillobel",
+                "Escola"
+              ],
+              [
+                "E.E Barão de Igarape Miri",
+                "Escola"
+              ],
+              [
+                "E.E Brigadeiro Fontenelle",
+                "Escola"
+              ],
+              [
+                "E.E Dr Justo Chermont",
+                "Escola"
+              ],
+              [
+                "E.E Frei Daniel",
+                "Escola"
+              ],
+              [
+                "E.E José Alves Maia",
+                "Escola"
+              ],
+              [
+                "E.E Magalhães Barata",
+                "Escola"
+              ],
+              [
+                "E.E Pães de Carvalho",
+                "Escola"
+              ],
+              [
+                "E.E Pedro Amazonas Pedroso",
+                "Escola"
+              ],
+              [
+                "E.E Santo Afonso",
+                "Escola"
+              ],
+              [
+                "E.F Tenente Rego Barros",
+                "Escola"
+              ],
+              [
+                "Escola de Aplicacao da UFPA",
+                "Escola"
+              ],
+              [
+                "Exército - 41º Centro de Telemática",
+                "Forças Armadas"
+              ],
+              [
+                "ICA - Campos Belém",
+                "Universidade / Inst. Federal"
+              ],
+              [
+                "Instituto Federal do Pará",
+                "Universidade / Inst. Federal"
+              ],
+              [
+                "Marinha - 4º Distrito Naval",
+                "Forças Armadas"
+              ],
+              [
+                "Praça da República",
+                "Prefeitura"
+              ],
+              [
+                "Santa Casa de Misericórdia",
+                "Unidade de Saúde"
+              ],
+              [
+                "Tribunal de Justiça do Estado do Pará",
+                "Unidade de Justiça"
+              ],
+              [
+                "UFPA - Campus Belém",
+                "Universidade / Inst. Federal"
+              ]
+            ]
+          },
+          "breves|PA": {
+            "nome": "Breves",
+            "uf": "PA",
+            "inst": 19,
+            "lista": [
+              [
+                "Coreto Praça do Operário",
+                "Prefeitura"
+              ],
+              [
+                "E.E Prof. Gerson Peres",
+                "Escola"
+              ],
+              [
+                "E.E Profa Maria Camara Paes",
+                "Escola"
+              ],
+              [
+                "E.E Profa. Maria Elizete Fona Nunes",
+                "Escola"
+              ],
+              [
+                "E.M Bom Jesus",
+                "Escola"
+              ],
+              [
+                "E.M da Ilha Marajocedim",
+                "Escola"
+              ],
+              [
+                "E.M Dr Lauro Sodre",
+                "Escola"
+              ],
+              [
+                "E.M Emerentina Moreira de Souza",
+                "Escola"
+              ],
+              [
+                "E.M Miguel Bitar",
+                "Escola"
+              ],
+              [
+                "E.M Prof. Aurea Maria da Silva Cunha",
+                "Escola"
+              ],
+              [
+                "E.M Prof. Odizia Correa Farias",
+                "Escola"
+              ],
+              [
+                "E.M Professor Estevão Gomes",
+                "Escola"
+              ],
+              [
+                "E.M Santa Monica",
+                "Escola"
+              ],
+              [
+                "E.M Santo Agostinho",
+                "Escola"
+              ],
+              [
+                "Fórum Dr. Pedro dos Santos Torres",
+                "Unidade de Justiça"
+              ],
+              [
+                "Hospital Municipal Mª Santana Rocha Franco",
+                "Unidade de Saúde"
+              ],
+              [
+                "IFPA - Campus Breves",
+                "Universidade / Inst. Federal"
+              ],
+              [
+                "Tiro de Guerra – 8ª Região Militar",
+                "Forças Armadas"
+              ],
+              [
+                "UFPA - Campus Breves",
+                "Universidade / Inst. Federal"
+              ]
+            ]
+          },
+          "curralinho|PA": {
+            "nome": "Curralinho",
+            "uf": "PA",
+            "inst": 8,
+            "lista": [
+              [
+                "E.E Manoel da Vera Cruz Sá",
+                "Escola"
+              ],
+              [
+                "E.E Prado Lopes",
+                "Escola"
+              ],
+              [
+                "E.M Francisco Chagas da Silva",
+                "Escola"
+              ],
+              [
+                "E.M Prep Agroamb Prof. Lindalva Pinho",
+                "Escola"
+              ],
+              [
+                "E.M Sitio Porto Alegre",
+                "Escola"
+              ],
+              [
+                "Fórum da Comarca de Curralinho",
+                "Unidade de Justiça"
+              ],
+              [
+                "Hospital Municipal de Curralinho",
+                "Unidade de Saúde"
+              ],
+              [
+                "Praça da Bandeira",
+                "Prefeitura"
+              ]
+            ]
+          },
+          "ponta de pedras|PA": {
+            "nome": "Ponta de Pedras",
+            "uf": "PA",
+            "inst": 13,
+            "lista": [
+              [
+                "E.E Aureliana Monteiro",
+                "Escola"
+              ],
+              [
+                "E.E Dalcidio Jurandir",
+                "Escola"
+              ],
+              [
+                "E.E Dra Ester Mouta Sede",
+                "Escola"
+              ],
+              [
+                "E.M Desembargador Oswaldo Pojucan Tavares",
+                "Escola"
+              ],
+              [
+                "E.M Dona Messiana Monteiro Malato",
+                "Escola"
+              ],
+              [
+                "E.M Doutor Romeu Ferreira dos Santos",
+                "Escola"
+              ],
+              [
+                "E.M João Cabral Noronha",
+                "Escola"
+              ],
+              [
+                "E.M Ministro Jarbas Passarinho",
+                "Escola"
+              ],
+              [
+                "E.M Padre Guido Fossatti",
+                "Escola"
+              ],
+              [
+                "E.M Semente do Saber",
+                "Escola"
+              ],
+              [
+                "Praça da Matriz em Ponta de Pedras",
+                "Prefeitura"
+              ],
+              [
+                "Tribunal de Justiça",
+                "Unidade de Justiça"
+              ],
+              [
+                "Unidade Mista de Saúde",
+                "Unidade de Saúde"
+              ]
+            ]
+          }
+        }
+      },
+      "04": {
+        "total": 65,
+        "municipios": {
+          "boa vista|RR": {
+            "nome": "Boa Vista",
+            "uf": "RR",
+            "inst": 36,
+            "lista": [
+              [
+                "Coordenação Regional de Roraima",
+                "Outros"
+              ],
+              [
+                "Distrito Sanitário Especial Indígena (DSEI) - Yanomami",
+                "Unidade de Saúde"
+              ],
+              [
+                "E. B. - 7º Bat. de Inf. de Selva",
+                "Forças Armadas"
+              ],
+              [
+                "E.E Ana Liboria",
+                "Escola"
+              ],
+              [
+                "E.E Cel Pm Derly Luiz Vieira Borges",
+                "Escola"
+              ],
+              [
+                "E.E Dr Ulysses Guimaraes",
+                "Escola"
+              ],
+              [
+                "E.E Fagundes Varela",
+                "Escola"
+              ],
+              [
+                "E.E Fernando Grangeiro De Menezes",
+                "Escola"
+              ],
+              [
+                "E.E Goncalves Dias",
+                "Escola"
+              ],
+              [
+                "E.E Lobo Dalmada",
+                "Escola"
+              ],
+              [
+                "E.E Militarizado Dr Luiz Rittler Brito De Lucena",
+                "Escola"
+              ],
+              [
+                "E.E Militarizado Ix Pedro Elias Albuquerque Pereira",
+                "Escola"
+              ],
+              [
+                "E.E Militarizado Profª Wanda David Aguiar - Cem Xi",
+                "Escola"
+              ],
+              [
+                "E.E Monteiro Lobato",
+                "Escola"
+              ],
+              [
+                "E.E Presidente Tancredo Neves",
+                "Escola"
+              ],
+              [
+                "E.E Profª Antonia Coelho De Lucena",
+                "Escola"
+              ],
+              [
+                "E.E Professor Camilo Dias",
+                "Escola"
+              ],
+              [
+                "E.E Professor Severino Goncalo Gomes Cavalcante",
+                "Escola"
+              ],
+              [
+                "E.E Professora Diva Alves De Lima",
+                "Escola"
+              ],
+              [
+                "E.E Sao Jose",
+                "Escola"
+              ],
+              [
+                "E.E Senador Helio Da Costa Campos",
+                "Escola"
+              ],
+              [
+                "E.M Dalicio Faria Filho",
+                "Escola"
+              ],
+              [
+                "E.M Frei Artur Agostini",
+                "Escola"
+              ],
+              [
+                "E.M Ioladio Batista Da Silva",
+                "Escola"
+              ],
+              [
+                "E.M Juslany De Souza Flores",
+                "Escola"
+              ],
+              [
+                "E.M Maria Teresa Maciel Da Silveira Melo",
+                "Escola"
+              ],
+              [
+                "E.M Nova Canaa",
+                "Escola"
+              ],
+              [
+                "E.M Palmira De Castro Machado",
+                "Escola"
+              ],
+              [
+                "E.M Profª Amazona De Oliveira Monteiro",
+                "Escola"
+              ],
+              [
+                "E.M Professor Carlos Raimundo Rodrigues",
+                "Escola"
+              ],
+              [
+                "E.M Valdemarina Normando Martins",
+                "Escola"
+              ],
+              [
+                "F.A. - Base Aérea de Boa Vista",
+                "Forças Armadas"
+              ],
+              [
+                "Hospital Geral de Roraima",
+                "Unidade de Saúde"
+              ],
+              [
+                "Instituto Federal de Roraima",
+                "Universidade / Inst. Federal"
+              ],
+              [
+                "Praça Germano Sampaio",
+                "Prefeitura"
+              ],
+              [
+                "Tribunal de Justiça",
+                "Unidade de Justiça"
+              ]
+            ]
+          },
+          "caracarai|RR": {
+            "nome": "Caracaraí",
+            "uf": "RR",
+            "inst": 11,
+            "lista": [
+              [
+                "E.E Joao Rogelio Schuertz-Cem XIII",
+                "Escola"
+              ],
+              [
+                "E.E Jose Vieira de Sales Guerra",
+                "Escola"
+              ],
+              [
+                "E.E Presidente Castelo Branco",
+                "Escola"
+              ],
+              [
+                "E.M Couto de Magalhaes",
+                "Escola"
+              ],
+              [
+                "E.M Crianca Feliz",
+                "Escola"
+              ],
+              [
+                "E.M Idnea Barbosa Ferreira",
+                "Escola"
+              ],
+              [
+                "E.M Manoel Pereira da Costa",
+                "Escola"
+              ],
+              [
+                "Hospital de Caracarai - Irmã Aquilina",
+                "Unidade de Saúde"
+              ],
+              [
+                "M.B - Marinha - Agência Fluvial de Caracaraí",
+                "Forças Armadas"
+              ],
+              [
+                "Praça Memorial Padre Calleri",
+                "Prefeitura"
+              ],
+              [
+                "Tribunal de Justiça - Caracarai",
+                "Unidade de Justiça"
+              ]
+            ]
+          },
+          "novo airao|AM": {
+            "nome": "Novo Airão",
+            "uf": "AM",
+            "inst": 10,
+            "lista": [
+              [
+                "Centro de Educação Tecnologica do Amazonas",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Balbina Mestrinho",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Danilo de Mattos Areosa",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Joaquim de Paula",
+                "Escola"
+              ],
+              [
+                "Escola Municipal Aristoteles Freire Arnoud",
+                "Escola"
+              ],
+              [
+                "Escola Municipal Raimundo Nonato Teixeira",
+                "Escola"
+              ],
+              [
+                "Escola Municipal Violeta Cardoso Alves de Mattos Areosa",
+                "Escola"
+              ],
+              [
+                "Fórum Desembargador Aristóteles Lima Thury",
+                "Unidade de Justiça"
+              ],
+              [
+                "Hospital Geral de Novo Airão",
+                "Unidade de Saúde"
+              ],
+              [
+                "Praça Municipal Hugo Carlos Frederico",
+                "Prefeitura"
+              ]
+            ]
+          },
+          "rorainopolis|RR": {
+            "nome": "Rorainópolis",
+            "uf": "RR",
+            "inst": 3,
+            "lista": [
+              [
+                "E.E Jose Bonifacio",
+                "Escola"
+              ],
+              [
+                "E.M Vovo Tetinha",
+                "Escola"
+              ],
+              [
+                "Hospital Estadual de Sta Mª do Boiaçu",
+                "Unidade de Saúde"
+              ]
+            ]
+          },
+          "barcelos|AM": {
+            "nome": "Barcelos",
+            "uf": "AM",
+            "inst": 5,
+            "lista": [
+              [
+                "E.E. C.  Rural de Ens. Mediação Tecn. de Barcelos",
+                "Escola"
+              ],
+              [
+                "E.M Santa Rita",
+                "Escola"
+              ],
+              [
+                "F.A. - Base da Comara",
+                "Forças Armadas"
+              ],
+              [
+                "Praça de Moura",
+                "Prefeitura"
+              ],
+              [
+                "UBS Raimunda Mondego Sampaio",
+                "Unidade de Saúde"
+              ]
+            ]
+          }
+        }
+      },
+      "05": {
+        "total": 107,
+        "municipios": {
+          "humaita|AM": {
+            "nome": "Humaitá",
+            "uf": "AM",
+            "inst": 22,
+            "lista": [
+              [
+                "54º Batalhão de Infantaria de Selva",
+                "Forças Armadas"
+              ],
+              [
+                "Agência Fluvial de Humaitá",
+                "Forças Armadas"
+              ],
+              [
+                "Centro de Educação Tecnologica do Amazonas",
+                "Escola"
+              ],
+              [
+                "E. E. Centro Educ Integral Tarcila Prado de Negreiros Mendes",
+                "Escola"
+              ],
+              [
+                "E. E. Governador Plinio Ramos Coelho",
+                "Escola"
+              ],
+              [
+                "E. E. Patronato Maria Auxiliadora",
+                "Escola"
+              ],
+              [
+                "E. M. Dom Bosco",
+                "Escola"
+              ],
+              [
+                "E. M. Irmã Maria Carmem Cronenbold",
+                "Escola"
+              ],
+              [
+                "E. M. Jose Cezario Menezes de Barros",
+                "Escola"
+              ],
+              [
+                "E. M. Rosa de Sarom",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Gilberto Mestrinho",
+                "Escola"
+              ],
+              [
+                "Escola Municipal São Francisco",
+                "Escola"
+              ],
+              [
+                "Escola Municipal Tancredo Neves",
+                "Escola"
+              ],
+              [
+                "Escola São Domingos Savio",
+                "Escola"
+              ],
+              [
+                "Fórum de Justiça de Humaitá",
+                "Unidade de Justiça"
+              ],
+              [
+                "Hospital Regional de Humaitá",
+                "Unidade de Saúde"
+              ],
+              [
+                "Instituto Federal do Amazonas",
+                "Universidade / Inst. Federal"
+              ],
+              [
+                "Praça da Matriz - Igreja Nossa Sraª Imaculada Conceição",
+                "Prefeitura"
+              ],
+              [
+                "Praça de Auxiliadora",
+                "Prefeitura"
+              ],
+              [
+                "Universidade Estadual do Amazonas",
+                "Universidade / Inst. Federal"
+              ],
+              [
+                "Universidade Federal do Amazonas",
+                "Universidade / Inst. Federal"
+              ],
+              [
+                "USF Dr. Igor Pereira Medeiros",
+                "Unidade de Saúde"
+              ]
+            ]
+          },
+          "borba|AM": {
+            "nome": "Borba",
+            "uf": "AM",
+            "inst": 13,
+            "lista": [
+              [
+                "Centro de Educação Tecnologica do Amazonas",
+                "Escola"
+              ],
+              [
+                "E. E. Balbina Mestrinho",
+                "Escola"
+              ],
+              [
+                "E. E. Benedito Gumercindo de Souza",
+                "Escola"
+              ],
+              [
+                "E. E. Conego Bento Jose de Souza",
+                "Escola"
+              ],
+              [
+                "E. E. Jose Holanda Cavalcante",
+                "Escola"
+              ],
+              [
+                "E. E. Lothar Sussman",
+                "Escola"
+              ],
+              [
+                "E. E. Monsenhor Coutinho",
+                "Escola"
+              ],
+              [
+                "E. E. Senador Alvaro Maia",
+                "Escola"
+              ],
+              [
+                "E. M. Desembargador Dr Francisco das Chagas Auzier Moreira",
+                "Escola"
+              ],
+              [
+                "E. M. Dr. Adelino Costa",
+                "Escola"
+              ],
+              [
+                "Fórum Dr. Fausto Ferreira Reis",
+                "Unidade de Justiça"
+              ],
+              [
+                "Hospital Vó Mundoca",
+                "Unidade de Saúde"
+              ],
+              [
+                "Praça da Basílica de Santo Antônio de Borba",
+                "Prefeitura"
+              ]
+            ]
+          },
+          "porto velho|RO": {
+            "nome": "Porto Velho",
+            "uf": "RO",
+            "inst": 29,
+            "lista": [
+              [
+                "BAPV - Base Aérea de Porto Velho",
+                "Forças Armadas"
+              ],
+              [
+                "Capitania Fluvial de Porto Velho (Marinha do Brasil)",
+                "Forças Armadas"
+              ],
+              [
+                "Comando da 17ª Brigada de Infantaria de Selva",
+                "Forças Armadas"
+              ],
+              [
+                "E. E.  Cap. Claudio Manoel da Costa",
+                "Escola"
+              ],
+              [
+                "E. E. Carmela Dutra",
+                "Escola"
+              ],
+              [
+                "E. E. Colégio Tiradentes da Polícia Militar - CTPM I",
+                "Escola"
+              ],
+              [
+                "E. E. E. F. M. Dr. Jose Otino de Freitas",
+                "Escola"
+              ],
+              [
+                "E. E. E. F. M. Murilo Braga",
+                "Escola"
+              ],
+              [
+                "E. E. Professor Daniel Neri da Silva",
+                "Escola"
+              ],
+              [
+                "E. E. Professor João Bento da Costa",
+                "Escola"
+              ],
+              [
+                "E. E. Professora Flora Calheiros Cotrin",
+                "Escola"
+              ],
+              [
+                "E. E. Risoleta Neves",
+                "Escola"
+              ],
+              [
+                "E. E. São Luiz",
+                "Escola"
+              ],
+              [
+                "E. M. Dra. Ana Adelaide Granjeiro",
+                "Escola"
+              ],
+              [
+                "E. M. E. I. E. F. Maria Casaroto Abati",
+                "Escola"
+              ],
+              [
+                "EEEF Maria Carmosina Pinheiro",
+                "Escola"
+              ],
+              [
+                "EEEFM General Osorio",
+                "Escola"
+              ],
+              [
+                "EEEFM Prof Eduardo Lima e Silva",
+                "Escola"
+              ],
+              [
+                "EEEFM Prof Orlando Freire",
+                "Escola"
+              ],
+              [
+                "EEEM Major Guapindaia",
+                "Escola"
+              ],
+              [
+                "EMEF Joaquim Vicente Rondon",
+                "Escola"
+              ],
+              [
+                "EMEIEF Flamboyant",
+                "Escola"
+              ],
+              [
+                "EMEIEF Jesus de Nazare",
+                "Escola"
+              ],
+              [
+                "Hospital de Base Dr. Ary Pinheiro",
+                "Unidade de Saúde"
+              ],
+              [
+                "Instituto Federal de Rondônia",
+                "Universidade / Inst. Federal"
+              ],
+              [
+                "Posto de Saúde Benjamim Silva",
+                "Unidade de Saúde"
+              ],
+              [
+                "Praça",
+                "Prefeitura"
+              ],
+              [
+                "Praça Getúlio Vargas",
+                "Prefeitura"
+              ],
+              [
+                "Tribunal de Justiça do Estado de Rondônia",
+                "Unidade de Justiça"
+              ]
+            ]
+          },
+          "manicore|AM": {
+            "nome": "Manicoré",
+            "uf": "AM",
+            "inst": 15,
+            "lista": [
+              [
+                "Centro de Educação Tecnologica do Amazonas",
+                "Escola"
+              ],
+              [
+                "E. E. Hermenegildo de Campos",
+                "Escola"
+              ],
+              [
+                "E. E. Historiador Arindal Vinicius da Fonseca Reis",
+                "Escola"
+              ],
+              [
+                "E. E. Maria Sa Mota",
+                "Escola"
+              ],
+              [
+                "E. E. Nª Sª das Graças",
+                "Escola"
+              ],
+              [
+                "E. E. Pedro Aguirre",
+                "Escola"
+              ],
+              [
+                "E. E. Senador João Bosco Ramos de Lima",
+                "Escola"
+              ],
+              [
+                "E. M. Aristeu da Cunha Virgolino",
+                "Escola"
+              ],
+              [
+                "E. M. Doutor Edmundo Juarez",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Didimo Soares",
+                "Escola"
+              ],
+              [
+                "Hospital Regional Hamilton Cidade",
+                "Unidade de Saúde"
+              ],
+              [
+                "Praça da Bandeira",
+                "Prefeitura"
+              ],
+              [
+                "Primeira Vara da Comarca de Manicoré - Fórum",
+                "Unidade de Justiça"
+              ],
+              [
+                "Tiro de Guerra de Manicoré",
+                "Forças Armadas"
+              ],
+              [
+                "Universidade Estadual do Amazonas",
+                "Universidade / Inst. Federal"
+              ]
+            ]
+          },
+          "nova olinda do norte|AM": {
+            "nome": "Nova Olinda do Norte",
+            "uf": "AM",
+            "inst": 14,
+            "lista": [
+              [
+                "Centro de Educação Tecnologica do Amazonas",
+                "Escola"
+              ],
+              [
+                "E. E. Ceti Professora Rosaria Marinho Paes",
+                "Escola"
+              ],
+              [
+                "E. E. Engo Abilio Nery",
+                "Escola"
+              ],
+              [
+                "E. E. Prof.ª Isabel Barroncas",
+                "Escola"
+              ],
+              [
+                "E. E. Professor Jose Paula de Sá",
+                "Escola"
+              ],
+              [
+                "E. E. Professora Maria Araujo Sales",
+                "Escola"
+              ],
+              [
+                "E. M. Colegio Militar M. Prof.ª Lami da Silva Vinhote",
+                "Escola"
+              ],
+              [
+                "E. M. Colegio Militar Mun. Prof.ª Maria de Fatima Pacheco",
+                "Escola"
+              ],
+              [
+                "E. M. Lirio do Vale",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Nossa Senhora de Nazare",
+                "Escola"
+              ],
+              [
+                "Hospital Dr. Galo Manoel",
+                "Unidade de Saúde"
+              ],
+              [
+                "Praça do Centro",
+                "Prefeitura"
+              ],
+              [
+                "Universidade Estadual do Amazonas",
+                "Universidade / Inst. Federal"
+              ],
+              [
+                "Vara Única da Comarca de Nova Olinda do Norte",
+                "Unidade de Justiça"
+              ]
+            ]
+          },
+          "novo aripuana|AM": {
+            "nome": "Novo Aripuanã",
+            "uf": "AM",
+            "inst": 14,
+            "lista": [
+              [
+                "Centro de Educação Tecnologica do Amazonas",
+                "Escola"
+              ],
+              [
+                "E. E. Francisco de Sá",
+                "Escola"
+              ],
+              [
+                "E. E. Guilherme Buzaglo",
+                "Escola"
+              ],
+              [
+                "E. E. Lourival Holanda Saraiva Neto",
+                "Escola"
+              ],
+              [
+                "E. E. Professor Joaquim Canamary Gualberto",
+                "Escola"
+              ],
+              [
+                "E. M. Augusto de Sá",
+                "Escola"
+              ],
+              [
+                "E. M. João Weckner da Fonseca",
+                "Escola"
+              ],
+              [
+                "E. M. Professor Raimundo Diego Fonseca de Souza",
+                "Escola"
+              ],
+              [
+                "E. M. Theodoro da Fonseca",
+                "Escola"
+              ],
+              [
+                "E.E. Julieta Lopes de Albuquerque",
+                "Escola"
+              ],
+              [
+                "Fórum de Novo Aripuanã",
+                "Unidade de Justiça"
+              ],
+              [
+                "Praça Pública Municipal de Novo Aipuanã",
+                "Prefeitura"
+              ],
+              [
+                "Unidade Hospitalar de Novo Aripuanã",
+                "Unidade de Saúde"
+              ],
+              [
+                "Universidade Estadual do Amazonas",
+                "Universidade / Inst. Federal"
+              ]
+            ]
+          }
+        }
+      },
+      "07": {
+        "total": 22,
+        "municipios": {
+          "sao gabriel da cachoeira|AM": {
+            "nome": "São Gabriel da Cachoeira",
+            "uf": "AM",
+            "inst": 14,
+            "lista": [
+              [
+                "2ª Brigada de Infantaria de Selva",
+                "Forças Armadas"
+              ],
+              [
+                "Capitania Fluvial da Amazônia Ocidental (Marinha)",
+                "Forças Armadas"
+              ],
+              [
+                "Departamento Nacional de Infraestrutura de Transportes - DNIT",
+                "Outros"
+              ],
+              [
+                "Distrito Sanitário Especial Indígena - Alto Rio Negro - DSEI ARN",
+                "Unidade de Saúde"
+              ],
+              [
+                "Escola Eeti Pedro Fukuyei Yamaguchi Ferreira",
+                "Escola"
+              ],
+              [
+                "Escola Estadual Dom João Marchesi",
+                "Escola"
+              ],
+              [
+                "Escola Estadual indígena Irmã Inês Penha",
+                "Escola"
+              ],
+              [
+                "Fórum de Justiça Desembargador Artur Gabriel Gonçalves",
+                "Unidade de Justiça"
+              ],
+              [
+                "Hospital de Guarnição de São Gabriel da Cachoeira",
+                "Unidade de Saúde"
+              ],
+              [
+                "Instituto Chico Mendes de Conservação da Biodiversidade - ICMBio",
+                "Outros"
+              ],
+              [
+                "Instituto Federal de Educação, Ciência e Tecnologia do Am.",
+                "Universidade / Inst. Federal"
+              ],
+              [
+                "Ministério Público - AM",
+                "Unidade de Justiça"
+              ],
+              [
+                "Secretaria Especial de Saúde Indígena - SESAI",
+                "Unidade de Saúde"
+              ],
+              [
+                "Tribunal Regional Eleitoral",
+                "Unidade de Justiça"
+              ]
+            ]
+          },
+          "santa isabel do rio negro|AM": {
+            "nome": "Santa Isabel do Rio Negro",
+            "uf": "AM",
+            "inst": 8,
+            "lista": [
+              [
+                "Departamento Nacional de Infraestrutura de Transportes - DNIT",
+                "Outros"
+              ],
+              [
+                "Escola Estadual Integral P. José Schneider",
+                "Escola"
+              ],
+              [
+                "Hospital Irmã Edwiges Maria Sikorka",
+                "Unidade de Saúde"
+              ],
+              [
+                "Ministério Público - AM",
+                "Unidade de Justiça"
+              ],
+              [
+                "Polícia Militar",
+                "Outros"
+              ],
+              [
+                "Secretaria Especial de Saúde Indígena - SESAI",
+                "Unidade de Saúde"
+              ],
+              [
+                "Tribunal de Justiça",
+                "Unidade de Justiça"
+              ],
+              [
+                "Tribunal Regional Eleitoral",
+                "Unidade de Justiça"
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "indicador_bi": 770,
+    "linhas_tabela": 769,
+    "aviso": "Tabela completa: 769 combinacoes; indicador BI: 770. As granularidades podem diferir; causa nao confirmada."
   },
   "_origem": {
     "00": {
