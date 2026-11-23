@@ -7,7 +7,6 @@ REGRAS
 - Se o BI nao devolver um mes/ano valido, nada e alterado (mantem a ultima data valida).
 - Somente o texto das datas e alterado. Layout, scripts e demais dados ficam intactos.
 """
-import copy
 import hashlib
 import json
 import re
@@ -27,50 +26,29 @@ RE_MES_ANO = re.compile(rf'^\s*({MESES})\s*(de|/)\s*(\d{{4}})\s*$', re.I)
 # Chaves que mudam a cada execucao mesmo sem dado novo (nao entram na comparacao).
 VOLATEIS = {'gerado_em', 'timestamp', 'rootActivityId', 'metrics', 'jobIds', 'jobId'}
 
-sys.path.insert(0, str(BASE))
-from extrair_pontos import fetch, decode  # noqa: E402
 
 
 # ---------- 1. Data de referencia vinda do BI ----------
-def _consulta_base():
-    configs = json.loads((BASE / 'consultas_infovias.json').read_text(encoding='utf-8'))
-    if not isinstance(configs, list) or not configs:
-        raise RuntimeError('scripts/consultas_infovias.json invalido')
-    return configs[0]
-
-
-def _variantes():
-    origem = {'SourceRef': {'Source': 'a'}}
-    yield {'Measure': {'Expression': origem, 'Property': 'MêsAno'}}
-    yield {'Column': {'Expression': origem, 'Property': 'MêsAno'}}
-    yield {'Aggregation': {'Expression': {'Column': {'Expression': origem, 'Property': 'MêsAno'}},
-                           'Function': 3}}
-
-
 def data_referencia_bi():
-    base = _consulta_base()
-    for expr in _variantes():
-        payload = copy.deepcopy(base['payload'])
-        cmd = payload['queries'][0]['Query']['Commands'][0]['SemanticQueryDataShapeCommand']
-        sel = dict(expr)
-        sel['Name'] = 'Atualização.MêsAno'
-        cmd['Query'] = {'Version': 2,
-                        'From': [{'Name': 'a', 'Entity': 'Atualização', 'Type': 0}],
-                        'Select': [sel]}
-        cmd['Binding'] = {'Primary': {'Groupings': [{'Projections': [0]}]},
-                          'DataReduction': {'DataVolume': 3, 'Primary': {'Top': {}}},
-                          'Version': 1}
-        try:
-            linhas = decode(fetch(base, payload))
-            valor = str(next(iter(linhas[0].values()))).strip()
-        except Exception as erro:  # tenta a proxima forma de consulta
-            print(f'  consulta da data ({next(iter(expr))}) sem resultado: {str(erro)[:120]}')
+    """Mes/ano do BI (campo Atualizacao.MesAno), gravado por extrair_cards.py
+    em data/bi_cards_infovias.json -> programa_cards.atualizacao."""
+    arq = DATA / 'bi_cards_infovias.json'
+    if not arq.exists():
+        print('  bi_cards_infovias.json nao encontrado.')
+        return None
+    dados = json.loads(arq.read_text(encoding='utf-8'))
+    candidatos = [(dados.get('programa_cards') or {}).get('atualizacao')]
+    candidatos += [(dados.get(iv) or {}).get('atualizacao') for iv in ('00', '01', '02', '03', '04', '05', '06', '07', '08')]
+    meses = {'Janeiro': '01', 'Fevereiro': '02', 'Março': '03', 'Abril': '04', 'Maio': '05', 'Junho': '06',
+             'Julho': '07', 'Agosto': '08', 'Setembro': '09', 'Outubro': '10', 'Novembro': '11', 'Dezembro': '12'}
+    for valor in candidatos:
+        if not valor:
             continue
+        valor = re.sub(r'^\s*atualizad[oa]s?\s+em:?\s*', '', str(valor), flags=re.I).strip()
         m = RE_MES_ANO.match(valor)
         if m:
             mes = m.group(1).capitalize().replace('Marco', 'Março')
-            meses = {'Janeiro':'01','Fevereiro':'02','Março':'03','Abril':'04','Maio':'05','Junho':'06','Julho':'07','Agosto':'08','Setembro':'09','Outubro':'10','Novembro':'11','Dezembro':'12'}
-            return f'{meses[mes]}/{m.group(3)}'   # mes/ano informado pelo BI, ex.: 10/2026
+            return f'{meses[mes]}/{m.group(3)}'   # ex.: 10/2026
         print(f'  valor ignorado (nao e mes/ano): {valor!r}')
     return None
 
