@@ -69,7 +69,8 @@ def data_referencia_bi():
         m = RE_MES_ANO.match(valor)
         if m:
             mes = m.group(1).capitalize().replace('Marco', 'Março')
-            return f'{mes} de {m.group(3)}'
+            meses = {'Janeiro':'01','Fevereiro':'02','Março':'03','Abril':'04','Maio':'05','Junho':'06','Julho':'07','Agosto':'08','Setembro':'09','Outubro':'10','Novembro':'11','Dezembro':'12'}
+            return f'--/{meses[mes]}/{m.group(3)[-2:]}'
         print(f'  valor ignorado (nao e mes/ano): {valor!r}')
     return None
 
@@ -96,7 +97,7 @@ def assinatura_dados(referencia):
 
 # ---------- 3. Aplicacao nos HTMLs (fora de <script>/<style>) ----------
 TAG = r'(?:\s|<[^>]+>)*'
-RE_DATA_VALOR = re.compile(r'\d{1,2}/\d{1,2}/\d{2,4}|' + rf'(?:{MESES})', re.I)
+RE_DATA_VALOR = re.compile(r'(?:--|\d{1,2})/\d{1,2}/\d{2,4}|' + rf'(?:{MESES})', re.I)
 
 
 def _trocar_fora_de_codigo(html, func):
@@ -171,15 +172,19 @@ def main():
 
     relatorio = {}
     for nome in PAGINAS:
-        pagina = REPO / nome
-        if not pagina.exists():
-            print(f'  AVISO: {nome} nao encontrado na raiz do repositorio.')
+        # Procura a pagina em qualquer pasta do repositorio (exceto .git).
+        achadas = [p for p in REPO.rglob(nome) if '.git' not in p.parts]
+        if not achadas:
+            print(f'  AVISO: {nome} nao encontrado no repositorio.')
             relatorio[nome] = 'arquivo nao encontrado'
             continue
-        res = aplicar(pagina, referencia, atualizado)
-        relatorio[nome] = res
-        aviso = '' if (res['data_referencia'] or res['atualizado_em']) else '  <- NENHUM campo de data encontrado'
-        print(f"  {nome}: referencia={res['data_referencia']} atualizado_em={res['atualizado_em']}{aviso}")
+        for pagina in achadas:
+            rel = str(pagina.relative_to(REPO))
+            res = aplicar(pagina, referencia, atualizado)
+            relatorio[rel] = res
+            aviso = '' if (res['data_referencia'] or res['atualizado_em']) else '  <- NENHUM campo de data encontrado'
+            print(f"  {rel}: referencia={res['data_referencia']} atualizado_em={res['atualizado_em']}{aviso}")
+        continue
 
     CONTROLE.write_text(json.dumps({
         'data_referencia': referencia,
