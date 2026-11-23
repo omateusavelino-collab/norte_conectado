@@ -70,7 +70,7 @@ def data_referencia_bi():
         if m:
             mes = m.group(1).capitalize().replace('Marco', 'Março')
             meses = {'Janeiro':'01','Fevereiro':'02','Março':'03','Abril':'04','Maio':'05','Junho':'06','Julho':'07','Agosto':'08','Setembro':'09','Outubro':'10','Novembro':'11','Dezembro':'12'}
-            return f'--/{meses[mes]}/{m.group(3)[-2:]}'
+            return f'{meses[mes]}/{m.group(3)}'   # mes/ano informado pelo BI, ex.: 10/2026
         print(f'  valor ignorado (nao e mes/ano): {valor!r}')
     return None
 
@@ -155,14 +155,34 @@ def main():
     anterior = json.loads(CONTROLE.read_text(encoding='utf-8')) if CONTROLE.exists() else {}
 
     print('Buscando data de referencia no BI...')
-    referencia = data_referencia_bi()
-    if referencia:
-        print('  Data de referencia do BI:', referencia)
-    else:
+    mes_ano = data_referencia_bi()                     # ex.: '10/2026'
+    mes_ano_anterior = anterior.get('bi_mes_ano')
+    if not mes_ano_anterior and anterior.get('data_referencia'):
+        # Migracao da versao antiga, que gravava '--/10/26'
+        m = re.match(r'^(?:--|\d{2})/(\d{2})/(\d{2,4})$', anterior['data_referencia'])
+        if m:
+            mes_ano_anterior = f"{m.group(1)}/{m.group(2) if len(m.group(2)) == 4 else '20' + m.group(2)}"
+            anterior['data_referencia'] = f'--/{mes_ano_anterior}'
+
+    if not mes_ano:
+        mes_ano = mes_ano_anterior
         referencia = anterior.get('data_referencia')
         print('  AVISO: BI nao devolveu mes/ano valido. Mantida a ultima data valida:', referencia)
+    elif mes_ano == mes_ano_anterior and anterior.get('data_referencia', '').endswith(mes_ano):
+        referencia = anterior['data_referencia']
+        print('  BI sem mudanca de mes/ano -> Data de referencia mantida:', referencia)
+    elif mes_ano_anterior is None:
+        # Primeira execucao: nao se sabe em que dia o BI mudou para este mes.
+        referencia = f'--/{mes_ano}'
+        print('  Primeira leitura do BI -> dia desconhecido:', referencia)
+    else:
+        # BI mudou de mes/ano nesta execucao: o dia e o da deteccao,
+        # desde que esteja no mesmo mes informado pelo BI. Caso contrario, fica '--'.
+        hoje = agora.strftime('%d/%m/%Y')
+        referencia = hoje if hoje.endswith(mes_ano) else f'--/{mes_ano}'
+        print(f'  BI mudou de {mes_ano_anterior} para {mes_ano} -> Data de referencia:', referencia)
 
-    assinatura = assinatura_dados(referencia)
+    assinatura = assinatura_dados(mes_ano)
     if assinatura != anterior.get('assinatura_dados'):
         atualizado = agora.strftime('%d/%m/%Y')
         print('  Dados mudaram -> "Atualizado em" =', atualizado)
@@ -188,6 +208,7 @@ def main():
 
     CONTROLE.write_text(json.dumps({
         'data_referencia': referencia,
+        'bi_mes_ano': mes_ano,
         'atualizado_em': atualizado,
         'assinatura_dados': assinatura,
         'verificado_em': agora.isoformat(timespec='seconds'),
