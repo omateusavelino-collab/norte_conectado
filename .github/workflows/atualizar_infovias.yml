@@ -21,6 +21,8 @@ jobs:
           python-version: '3.12'
       - name: Extrair e validar
         run: python scripts/extrair_infovias.py
+      - name: Extrair cards do BI (pontos, subprograma, data)
+        run: python scripts/extrair_cards.py
       - name: Atualizar datas nas paginas
         run: python scripts/atualizar_datas.py
       - name: Publicar somente apos validacao
