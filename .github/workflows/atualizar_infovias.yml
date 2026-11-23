@@ -21,13 +21,13 @@ jobs:
           python-version: '3.12'
       - name: Extrair e validar
         run: python scripts/extrair_infovias.py
-      - name: Cards do BI por infovia
-        run: python scripts/extrair_cards.py
+      - name: Atualizar datas nas paginas
+        run: python scripts/atualizar_datas.py
       - name: Publicar somente apos validacao
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/*.json
+          git add data/*.json *.html
           git diff --cached --quiet && exit 0
-          git commit -m "Atualizar dados das infovias"
+          git commit -m "Atualizar dados e datas das infovias"
           git push
