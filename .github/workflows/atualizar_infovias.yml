@@ -27,7 +27,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/*.json *.html
+          git add data/
+          git ls-files -z -m -- '*.html' | xargs -0 -r git add --
           git diff --cached --quiet && exit 0
           git commit -m "Atualizar dados e datas das infovias"
           git push
